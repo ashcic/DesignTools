@@ -2,7 +2,7 @@
 layout: default
 title: "3D Shapes"
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
 # 3D Shapes
