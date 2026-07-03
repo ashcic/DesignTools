@@ -1,3 +1,8 @@
 title: "Design Tools"
 description: "High-performance Grasshopper components for industrial design."
-theme: jekyll-theme-minimal
+
+# This tells GitHub to pull the community theme directly from its repository
+remote_theme: just-the-docs/just-the-docs
+
+# Enable the built-in search engine
+search_enabled: true
