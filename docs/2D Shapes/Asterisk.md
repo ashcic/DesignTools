@@ -23,11 +23,11 @@ Number of arms
 ___
 
 ### Outputs
-**curves**
-Individual curves
+**Curves**
+Asterisk as individual curves
 
-**joined**
-Joined curves
+**Joined**
+Asterisk as joined curves
 
 **Points**
 Control Points
@@ -36,10 +36,10 @@ ___
 
 ### Menu Options
 **Flat**
-"Explanation..."
+Create flat ends on each arm 
 
 **Arched**
-"Explanation..."
+Create arched ends on each arm that match the radius of the construction circle
 
 **Round**
-"Explanation..."
+Create fully rounded ends on each arm
