@@ -16,7 +16,8 @@ The component can also organize these curves into continuous loops.
 
 ___
 
-### Inputs
+## Inputs
+
 **Brep**
 The main brep
 
@@ -25,7 +26,8 @@ Tolerance
 
 ___
 
-### Outputs
+## Outputs
+
 **Edge Curves**
 Edge curves of the Brep
 
@@ -34,7 +36,8 @@ The number id of each edge
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Naked**
 Get the unjoined edges
 

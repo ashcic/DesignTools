@@ -10,7 +10,8 @@ Create a blend surface between the specified edges of two surfaces. It allows yo
 
 ___
 
-### Inputs
+## Inputs
+
 **Brep A**
 First Brep
 
@@ -34,6 +35,7 @@ Number of sections controlling the blend surface
 
 ___
 
-### Outputs
+## Outputs
+
 **surface**
 Blend Surface

@@ -6,11 +6,12 @@ parent: "3D Forms"
 
 # Extrude Indent
 
-Creates extruded shapes, indents, or through-holes from curves. It allows for generating 3D forms with fillets and blends, as well as carving simple indentations into existing solid or hollow geometry.
+This is the workhorse of your WorkFlow.  It creates extruded shapes, indents, or through-holes from curves. It allows for generating 3D forms with fillets and blends, as well as carving simple indentations into existing solid or hollow geometry.
 
 ___
 
-### Inputs
+## Inputs
+
 **Curves**
 The main curves
 
@@ -30,11 +31,14 @@ Distance of the extrude
 Inset of the main curves
 
 **Flip**
-Change the direction
+Change the orientation:
+- If extruding, flip extrudes from the centre equally on both sides
+- If indenting, flip gives the negative space of the indent
 
 ___
 
-### Outputs
+## Outputs
+
 **Breps**
 The modified brep
 
@@ -52,39 +56,24 @@ A description of how to use this tool
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Max 27**
-"Explanation..."
+27 Sectors or control curves smoothing the surface
+Slower, and best suited to complex curves
 
 **High 21**
-"Explanation..."
+21 Sectors or control curves smoothing the surface
+Best suited to complex curves
 
 **Medium 17**
-"Explanation..."
+17 Sectors or control curves smoothing the surface
+Standard amount
 
 **Low 13**
-"Explanation..."
+13 Sectors or control curves smoothing the surface
+Best suited to simple curves
 
 **Min 9**
-"Explanation..."
-
-**flip**
-"Explanation..."
-
-**quick**
-"Explanation..."
-
-**inner_hole**
-"Explanation..."
-
-**inner_though**
-"Explanation..."
-
-**centre**
-"Explanation..."
-
-**inside**
-"Explanation..."
-
-**inside**
-"Explanation..."
+9 Sectors or control curves smoothing the surface
+Fast, best suited to simple curves

@@ -10,12 +10,13 @@ Creates a set of arcs that form a circle based on a specified radius and the num
 
 This component provides:
 
-* **Arcs:** The individual curved segments making up the shape.
-* **Points:** The shared endpoints between each arc.
+**Arcs:** The individual curved segments making up the shape.
+**Points:** The shared endpoints between each arc.
 
 ___
 
-### Inputs
+## Inputs
+
 **Radius**
 Radius of the circle
 
@@ -24,7 +25,8 @@ Number of segments of the circle
 
 ___
 
-### Outputs
+## Outputs
+
 **Arcs**
 The split arcs
 

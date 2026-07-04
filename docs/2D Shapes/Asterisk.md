@@ -10,7 +10,8 @@ Creates an asterisk-like shape with multiple radiating arms. You can customize t
 
 ___
 
-### Inputs
+## Inputs
+
 **Radius**
 Radius of the containing circle
 
@@ -22,7 +23,8 @@ Number of arms
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Asterisk as individual curves
 
@@ -34,7 +36,8 @@ Control Points
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Flat**
 Create flat ends on each arm 
 

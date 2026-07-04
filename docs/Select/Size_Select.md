@@ -12,13 +12,15 @@ The selected item is sent to the 'Piece' output, while all remaining objects are
 
 ___
 
-### Inputs
+## Inputs
+
 **Geometry**
 The main geometry
 
 ___
 
-### Outputs
+## Outputs
+
 **Piece**
 Selected geometry
 
@@ -27,21 +29,22 @@ Non-selcted geometry
 
 ___
 
-### Menu Options
-**Biggest**
-"Explanation..."
-
-**Smallest**
-"Explanation..."
+## Menu Options
 
 **Box Volume (Fast)**
-"Explanation..."
+Compare the bounding box volumes of each geometry
 
 **Actual Volume**
-"Explanation..."
+Compare the actual Volume of Breps
 
 **XY Area (Fast)**
-"Explanation..."
+For flat surfaces compare the sizes of the bounding rectangles
 
 **Actual Area**
-"Explanation..."
+For flat surfaces compare the actual surface area
+
+**Biggest**
+Select the biggest
+
+**Smallest**
+Select the biggest

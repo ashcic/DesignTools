@@ -8,13 +8,14 @@ parent: "Curve Tools"
 
 Creates a smooth curve between two points with precise control over the orientation at each endpoint.
 
-* **Orientation:** Define the specific direction (Vector) and rotation (Angle) for both the start and end of the curve.
-* **Optional Curves:** Blend into or out of existing curves to match specific radii or shapes.
-* **Blend Influence:** Control how much the start and end settings influence the overall curvature of the result.
+**Orientation:** Define the specific direction (Vector) and rotation (Angle) for both the start and end of the curve.
+**Optional Curves:** Blend into or out of existing curves to match specific radii or shapes.
+**Blend Influence:** Control how much the start and end settings influence the overall curvature of the result.
 
 ___
 
-### Inputs
+## Inputs
+
 **Start Point**
 Point at the start
 
@@ -47,6 +48,7 @@ Influence of the end vector
 
 ___
 
-### Outputs
+## Outputs
+
 **Curve**
 Blend Curve

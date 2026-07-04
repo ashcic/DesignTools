@@ -10,13 +10,15 @@ Get the Bounding Box Dimensions of geometry as X, Y and Z values.
 
 ___
 
-### Inputs
+## Inputs
+
 **Geometry**
 Input geometry to measure
 
 ___
 
-### Outputs
+## Outputs
+
 **X**
 The X Dimension
 

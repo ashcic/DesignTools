@@ -10,7 +10,8 @@ Revolves profile curves around a line to create 3D surfaces or solids. The rotat
 
 ___
 
-### Inputs
+## Inputs
+
 **Curves**
 Profile curves
 
@@ -22,7 +23,8 @@ Line around which the surfaces are revolved
 
 ___
 
-### Outputs
+## Outputs
+
 **Revolve**
 Final surfaces
 
@@ -31,7 +33,8 @@ Joined final surfaces
 
 ___
 
-### Menu Options
+## Menu Options
+
 **start_cap**
 Adds a cap on the end which is at the start of the curve
 

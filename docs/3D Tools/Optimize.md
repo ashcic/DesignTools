@@ -10,30 +10,34 @@ Cleans and simplifies Brep geometry.  The specific methods of optimisation are i
 
 ___
 
-### Inputs
+## Inputs
+
 **Brep**
 The main brep
 
 ___
 
-### Outputs
+## Outputs
+
 **Brep**
 The optimized brep
 
 ___
 
-### Menu Options
-**shrink_face**
-"Explanation..."
+## Menu Options
 
-**merge_edges**
-"Explanation..."
+**Shrink Face**
+Any face that extends beyond edges is reduced to match the size of it's trims
+(It's a little technical, but helps prevent unintended results when working with faces)
 
-**merge_faces**
-"Explanation..."
+**Merge Edges**
+Merges fragmented edges
 
-**solid_orient**
-"Explanation..."
+**Merge Faces**
+Any co-planar faces will be merged into a single flat surface"
 
-**compact**
-"Explanation..."
+**Solid Orient**
+Makes sure the surfaces are pointing outward
+
+**Compact**
+Compact the Brep

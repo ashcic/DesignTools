@@ -10,7 +10,8 @@ Applies blend fillets to a set of curves. Use the radii input to control the rou
 
 ___
 
-### Inputs
+## Inputs
+
 **Curves**
 The main curves
 
@@ -22,7 +23,8 @@ List of the blend values for each fillet
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Individual curves
 
@@ -31,9 +33,10 @@ Joined curves
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Bully**
-"Explanation..."
+Change the curve priority
 
 **All**
 "Explanation..."

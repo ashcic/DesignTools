@@ -10,7 +10,8 @@ Extends an existing surface outward from one or more of its edges by a specified
 
 ___
 
-### Inputs
+## Inputs
+
 **Surface**
 The main surface
 
@@ -22,7 +23,8 @@ Choose which edge to extend
 
 ___
 
-### Outputs
+## Outputs
+
 **Surface**
 The extended surface
 
@@ -31,6 +33,7 @@ A description of how to use this tool
 
 ___
 
-### Menu Options
-**simple**
-"Explanation..."
+## Menu Options
+
+**Use Simple Domain Extension**
+Extends the surface proportionally rather than by a length

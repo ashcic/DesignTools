@@ -10,7 +10,8 @@ Creates a triangle that can be oriented in different directions.  Use an integer
 
 ___
 
-### Inputs
+## Inputs
+
 **Radius**
 The radius of the construction circle
 
@@ -19,7 +20,8 @@ Direction that the triangle points
 
 ___
 
-### Outputs
+## Outputs
+
 **curves**
 Individual curves
 

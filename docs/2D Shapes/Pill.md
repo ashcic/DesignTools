@@ -8,19 +8,14 @@ parent: "2D Shapes"
 
 Creates a Pill or Race-track shape based on X and Y dimensions.
 
-**Inputs:**
+## Key Feature:
 
-* **X / Y:** The primary dimensions of the pill.
-* **Orient:** Rotates the pill to different positions (0–5).
-
-**Options:**
-
-* **Smooth:** Toggles between sharp geometric corners and smooth, continuous curves.
-* **Pivot Width:** Adjusts the length of the straight section relative to the dimensions.
+**Smooth:** Toggles between sharp geometric corners and smooth, continuous curves.
 
 ___
 
-### Inputs
+## Inputs
+
 **X**
 The X dimension
 
@@ -32,7 +27,8 @@ The orientation of the Pill
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Individual curves
 
@@ -44,9 +40,11 @@ Pivot Points at the centres of the arcs
 
 ___
 
-### Menu Options
-**smooth**
-"Explanation..."
+## Menu Options
 
-**p_width**
-"Explanation..."
+**Smooth**
+Toggles between sharp geometric corners and smooth, continuous curves
+
+**P_width**
+If this is selected, the number for X is the dixtance between the two pivot points
+If this is unselected (default), the number for X is the total width

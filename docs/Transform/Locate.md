@@ -8,7 +8,7 @@ parent: "Transform"
 
 Locate a plane on geometry in order to place things on it
 
-#### Key Features:
+## Key Features:
 
  **Face Selection:** Choose a specific face using the index input (visualized with numbered arrows).
  **Positioning:** Place the plane using a 0-10 grid system and adjust manually via U and V insets.
@@ -17,7 +17,8 @@ Locate a plane on geometry in order to place things on it
 
 ___
 
-### Inputs
+## Inputs
+
 **Geometry**
 The main geometry
 
@@ -38,7 +39,8 @@ Offsets the plane from the surface
 
 ___
 
-### Outputs
+## Outputs
+
 **Plane**
 The final plane
 
@@ -56,12 +58,10 @@ A description of how to use this tool
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Simple**
-"Explanation..."
+Finds the centre using bounding box rather than UVs
 
 **Box**
-"Explanation..."
-
-**Simple_centre**
-"Explanation..."
+Treat the objects as a bounding box and align to one of the 6 sides

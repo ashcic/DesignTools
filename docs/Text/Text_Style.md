@@ -8,16 +8,17 @@ parent: "Text"
 
 Defines the styling properties for a Text node. Use this component to set:
 
-* **Font** family
-* **Text Case** (Normal, Upper, Lower, or Title case)
-* **Height** of the text
-* **Alignment** (Horizontal and Vertical positions)
+**Font** family
+**Text Case** (Normal, Upper, Lower, or Title case)
+**Height** of the text
+**Alignment** (Horizontal and Vertical positions)
 
 The output provides a formatted style string for use with the corresponding Text component.
 
 ___
 
-### Inputs
+## Inputs
+
 **Font**
 Font
 
@@ -35,6 +36,7 @@ Text height
 
 ___
 
-### Outputs
+## Outputs
+
 **style**
 Style for the Text node

@@ -8,13 +8,14 @@ parent: "3D Tools"
 
 Splits a Brep with a plane and optionally applies a filleted transition between the resulting geometry.
 
-* **Fillet:** Sets the radius of the rounded edge. Set to 0 for a sharp, clean cut.
-* **Blend:** Adjusts the curvature/smoothness of the fillet.
-* **Flip:** Reverses the final orientation of the output geometry.
+**Fillet:** Sets the radius of the rounded edge. Set to 0 for a sharp, clean cut.
+**Blend:** Adjusts the curvature/smoothness of the fillet.
+**Flip:** Reverses the final orientation of the output geometry.
 
 ___
 
-### Inputs
+## Inputs
+
 **Brep**
 Geometry to be split
 
@@ -32,7 +33,8 @@ Flip final geometry orientation
 
 ___
 
-### Outputs
+## Outputs
+
 **Breps**
 Resulting joined Breps
 
@@ -41,12 +43,10 @@ Intersection/split curves
 
 ___
 
-### Menu Options
-**cap**
-"Explanation..."
+## Menu Options
 
-**match**
-"Explanation..."
+**Cap**
+Add caps to opens ends of the geometry, creating a closed brep
 
-**flip**
-"Explanation..."
+**Match**
+Makes the fillets of the split match each other

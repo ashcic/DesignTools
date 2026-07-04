@@ -10,16 +10,17 @@ Generates gear-like geometry (cogs) based on a circular base. It produces indivi
 
 The component provides different tooth styles:
 
- * **Angled**: Teeth with adjustable slanted sides.
- * **Square sides**: Rectangular teeth perpendicular to the circle.
- * **Flat sides**: Simple flat-edged teeth.
- * **Right-Angled**: Teeth oriented at a specific right angle.
+**Angled**: Teeth with adjustable slanted sides.
+**Square sides**: Rectangular teeth perpendicular to the circle.
+**Flat sides**: Simple flat-edged teeth.
+**Right-Angled**: Teeth oriented at a specific right angle.
  
 Use *Radius* and *Segments* for the basic shape, then adjust *Angle*, *Offset*, and *Extend* to fine-tune the tooth thickness and spacing.
 
 ___
 
-### Inputs
+## Inputs
+
 **Radius**
 Radius of the containing circle
 
@@ -37,7 +38,8 @@ Changes the width of the teeth
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Individual curves
 
@@ -52,15 +54,16 @@ A description of how to use this tool
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Angled**
-"Explanation..."
+Teeth with adjustable slanted sides
 
 **Square sides**
-"Explanation..."
+Rectangular teeth perpendicular to the circle
 
 **Flat sides**
-"Explanation..."
+Simple flat-edged teeth
 
 **Right-Angled**
-"Explanation..."
+Teeth oriented at a specific right angle

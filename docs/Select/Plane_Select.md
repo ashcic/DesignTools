@@ -16,7 +16,8 @@ Use a Plane to select geometry.  Divide the geometry into two groups — those s
 
 ___
 
-### Inputs
+## Inputs
+
 **Geometry**
 The main geometry
 
@@ -25,7 +26,8 @@ The selection plane
 
 ___
 
-### Outputs
+## Outputs
+
 **Geometry Inside**
 The geometry inside the boxes
 
@@ -37,7 +39,8 @@ The index values for all the included geometry
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Overlapping**
 Includes any part of the object that is above or on the plane.
 

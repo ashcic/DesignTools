@@ -10,13 +10,14 @@ Constructs a rectangle, pill shape, or rounded box based on reference geometry.
 
 This tool allows you to:
 
-* **Generate Offsets:** Create multiple concentric shapes using the Offset input.
-* **Customize Corners:** Choose between Arc, Chamfered, and Blended (C2) corner styles via the component menu.
-* **Control Radii:** Set individual radii for each of the four corners or use the 'Match' parameter to sync them with existing geometry dimensions.
+**Generate Offsets:** Create multiple concentric shapes using the Offset input.
+**Customize Corners:** Choose between Arc, Chamfered, and Blended (C2) corner styles via the component menu.
+**Control Radii:** Set individual radii for each of the four corners or use the 'Match' parameter to sync them with existing geometry dimensions.
 
 ___
 
-### Inputs
+## Inputs
+
 **Geometry**
 The main geometry
 
@@ -37,7 +38,8 @@ Description
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 The initial rectangle as separate curves
 
@@ -58,18 +60,16 @@ A description of how to use this tool
 
 ___
 
-### Menu Options
+## Menu Options
+
 **C2 Corners**
-"Explanation..."
+Smooth blend radius on each corner
 
 **Arc Corners**
-"Explanation..."
+Simple arc radius on each corner
 
 **Chamfered Corners**
-"Explanation..."
+Flat edge instead of an arc
 
 **C2 Arc Corners**
-"Explanation..."
-
-**zeros**
-"Explanation..."
+Produces a C2 smooth radius in each corner that imitates an arc

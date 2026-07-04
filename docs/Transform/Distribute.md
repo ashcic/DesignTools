@@ -8,7 +8,7 @@ parent: "Transform"
 
 Distributes geometry across a bounding box with uniform gaps or specific alignment points.
 
-**Distribution Modes (Centre):**
+**Distribution Modes:**
 
 * 0 - Even Gaps
 * 1 - From Left (Min)
@@ -19,7 +19,8 @@ The **Order** toggle sorts items by position, and the **Align** toggle snaps the
 
 ___
 
-### Inputs
+## Inputs
+
 **Geometry**
 The objects to be distributed.
 
@@ -40,7 +41,8 @@ The ammount to inset from the edge
 
 ___
 
-### Outputs
+## Outputs
+
 **Geometry**
 The updated geometry
 
@@ -52,21 +54,22 @@ A description of how to use this tool
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Even Gaps**
-"Explanation..."
+Set even gaps between objects
 
 **From Left (Min)**
-"Explanation..."
+Spacing is measured from the left or minimum sides
 
 **From Centres**
-"Explanation..."
+Spacing is measured from the centres
 
 **From Right (Max)**
-"Explanation..."
+Spacing is measured from the left or maximum sides
 
-**order**
+**Order**
 Use the input order to order the geometry, rather than it's original position
 
-**align**
+**Align**
 Align to the reference geometry

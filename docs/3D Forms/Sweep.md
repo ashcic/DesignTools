@@ -8,14 +8,15 @@ parent: "3D Forms"
 
 Sweeps profile curves along rail paths to create surfaces and solids. 
 
-### Key Functions:
+## Key Functions:
 
 **Origin** input to control the orientation and positioning of the profiles
 **Cap** menu option to automatically close the ends of the geometry.
 
 ___
 
-### Inputs
+## Inputs
+
 **Rails**
 Path curves defining the sweep geometry
 
@@ -30,7 +31,8 @@ Number of subdivisions along the rail
 
 ___
 
-### Outputs
+## Outputs
+
 **Breps**
 Generated swept Brep surfaces
 
@@ -42,9 +44,7 @@ A description of how to use this tool
 
 ___
 
-### Menu Options
-**cap**
-"Explanation..."
+## Menu Options
 
-**removeFirst**
-"Explanation..."
+**Cap**
+Add caps to opens ends of the geometry, creating a closed brep

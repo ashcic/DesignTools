@@ -10,7 +10,8 @@ Extends or trims a curve from its start and end points. Use positive values to l
 
 ___
 
-### Inputs
+## Inputs
+
 **Curve**
 The main curve
 
@@ -22,13 +23,15 @@ Amount to extend the end
 
 ___
 
-### Outputs
+## Outputs
+
 **Curve**
 The extended curve
 
 ___
 
-### Menu Options
+## Menu Options
+
 **proportional**
 When Proportional is off, inputs are treated as fixed units of length.
 When Proportional is on, inputs are treated as a percentage of the total curve length (e.g., 0.5 for 50%).

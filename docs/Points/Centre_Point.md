@@ -10,19 +10,22 @@ Finds the center points of input geometry, either by finding the individual cent
 
 ___
 
-### Inputs
+## Inputs
+
 **Geometry**
 The main geometry
 
 ___
 
-### Outputs
+## Outputs
+
 **Centers**
 The centre point of the geometry
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Union**
 Treats the geometry as a group and returns one point
 

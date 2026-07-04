@@ -20,7 +20,8 @@ The component outputs joined geometry, individual curves, and hatches suitable f
 
 ___
 
-### Inputs
+## Inputs
+
 **Curves**
 Input curves (must be flat on XY plane)
 
@@ -41,7 +42,8 @@ End head type ID (0=Round, 1=Flat, 2=Arrow, 3=Circle, 4=Square, 5=Bar)
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Individual curves
 

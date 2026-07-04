@@ -8,15 +8,16 @@ parent: "Curve Tools"
 
 Splits a set of curves using one or more cutting planes. The resulting segments are organized into branches based on the sections created by those planes.
 
-### Key Features:
+## Key Features:
 
-* **Fillet:** Adds rounded ends at the split points.
-* **Blend:** Controls the smoothness of the fillets.
-* **Gap:** Creates a physical distance between segments separated by the planes.
+**Fillet:** Adds rounded ends at the split points.
+**Blend:** Controls the smoothness of the fillets.
+**Gap:** Creates a physical distance between segments separated by the planes.
 
 ___
 
-### Inputs
+## Inputs
+
 **Curves**
 Curves to be split
 
@@ -34,7 +35,8 @@ Add a gap size between splits
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Split curves by branch
 
@@ -46,9 +48,7 @@ Intersection points
 
 ___
 
-### Menu Options
-**Close**
-"Explanation..."
+## Menu Options
 
-**Intersects**
-"Explanation..."
+**Close**
+Add a line to close the curves into a loop

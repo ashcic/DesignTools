@@ -12,7 +12,8 @@ Includes options for **double-ended** arrows and **centered** orientations.
 
 ___
 
-### Inputs
+## Inputs
+
 **Radius**
 Radius of the arrow's arc
 
@@ -30,7 +31,8 @@ Width of the barbs
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Individual curves
 
@@ -45,9 +47,11 @@ Control Points
 
 ___
 
-### Menu Options
-**ends**
-"Explanation..."
+## Menu Options
 
-**centre**
-"Explanation..."
+**Ends**
+Adds arrow heads to both ends of the arrow
+
+**Centre**
+If true, the arrow will be symetrical about the Y-Axis
+If false, the arrow will be generate from the Y-Axis

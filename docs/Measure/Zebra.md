@@ -10,7 +10,8 @@ Check surface curvature, by visualizing zebra stripes over a surface to help ana
 
 ___
 
-### Inputs
+## Inputs
+
 **Brep**
 Input Brep
 

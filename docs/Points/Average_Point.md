@@ -10,12 +10,14 @@ The average point from a list of points
 
 ___
 
-### Inputs
+## Inputs
+
 **Points**
 list of points
 
 ___
 
-### Outputs
+## Outputs
+
 **Average Point**
 The middle point of the list of points

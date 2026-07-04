@@ -8,17 +8,18 @@ parent: "Arrows"
 
 Creates a flat arrow shape
 
-* **Length:** The overall length of the arrow.
-* **Width:** The thickness of the shaft.
-* **Head:** The size of the arrowhead.
-* **Barb:** The width of the decorative barbs.
+**Length:** The overall length of the arrow.
+**Width:** The thickness of the shaft.
+**Head:** The size of the arrowhead.
+**Barb:** The width of the decorative barbs.
 
 Includes a right-click menu option to toggle between single and double-ended arrows.
 
 
 ___
 
-### Inputs
+## Inputs
+
 **Length**
 Overall length of the arrow
 
@@ -33,7 +34,8 @@ Width of the barbs
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Individual curves
 
@@ -48,6 +50,7 @@ Control Points
 
 ___
 
-### Menu Options
-**ends**
-"Explanation..."
+## Menu Options
+
+**Ends**
+Adds arrow heads to both ends of the arrow

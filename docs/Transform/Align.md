@@ -10,7 +10,8 @@ Align the geometry in the X, Y or Z dimensions.  Arranges multiple geometries in
 
 ___
 
-### Inputs
+## Inputs
+
 **Geometry**
 Main Geometry
 
@@ -31,7 +32,8 @@ Inset the geometry from the reference point
 
 ___
 
-### Outputs
+## Outputs
+
 **Geometry**
 The updated geometry
 
@@ -43,10 +45,10 @@ A description of how to use this tool
 
 ___
 
-### Menu Options
+## Menu Options
 
-**union**
-Treat as a single group of objects
+**Union**
+Treat the geometry as a single group of objects
 
-**centre**
+**Centre**
 Align around the Origin

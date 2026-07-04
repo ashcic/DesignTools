@@ -11,7 +11,8 @@ Converts a text into geometry based on a specified style.
 
 ___
 
-### Inputs
+## Inputs
+
 **Text**
 This is the text to convert
 
@@ -23,7 +24,8 @@ Use a 'Text Style' node to generate the string to control the text style
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Curves from the text
 
@@ -32,12 +34,3 @@ Hatches can be exported to Adobe Illustrator as solid shape
 
 **Bounds**
 A rectangle around the text which is useful for laying out the text
-
-___
-
-### Menu Options
-**is_closed**
-"Explanation..."
-
-**changed**
-"Explanation..."

@@ -10,19 +10,22 @@ Nudge geometry in small amounts in X, Y and Z.  This is useful for making precis
 
 ___
 
-### Inputs
+## Inputs
+
 **Geometry**
 Geometry to nudge
 
 ___
 
-### Outputs
+## Outputs
+
 **Geometry**
 Nudged geometry
 
 ___
 
-### Menu Options
+## Menu Options
+
 **X Axis**
 X Direction
 

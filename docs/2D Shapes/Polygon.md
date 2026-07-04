@@ -8,16 +8,17 @@ parent: "2D Shapes"
 
 Creates a regular polygon based on a radius and number of sides, with customizable corner treatments.
 
-* **Fillets & Blends:** Create smooth, rounded corners with adjustable size and curvature.
-* **Arcs:** Create perfectly circular corner joints.
-* **Chamfers:** Create flat, angled corners.
-* **C2 Corners:** Provide smooth, high-continuity transitions for organic shapes.
+**Fillets & Blends:** Create smooth, rounded corners with adjustable size and curvature.
+**Arcs:** Create perfectly circular corner joints.
+**Chamfers:** Create flat, angled corners.
+**C2 Corners:** Provide smooth, high-continuity transitions for organic shapes.
 
 Outputs include the construction circle, joined curves, individual segments, fillet centers, and vertex points.
 
 ___
 
-### Inputs
+## Inputs
+
 **Radius**
 Radius of the construction circle
 
@@ -35,7 +36,8 @@ Match the dimensions of the construction circle
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Individual curves
 
@@ -53,18 +55,19 @@ Description
 
 ___
 
-### Menu Options
+## Menu Options
+
 **C2 Corners**
-"Explanation..."
+Smooth blend radius on each corner
 
 **Arc Corners**
-"Explanation..."
+Simple arc radius on each corner
 
 **Chamfered Corners**
-"Explanation..."
+Flat edge instead of an arc
 
 **C2 Arc Corners**
-"Explanation..."
+Produces a C2 smooth radius in each corner that imitates an arc
 
-**match**
-"Explanation..."
+**Match**
+Scale the polygon so that the corner radius touch the construction circle

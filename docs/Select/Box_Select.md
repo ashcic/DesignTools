@@ -8,16 +8,17 @@ parent: "Select"
 
 Use Bounding Boxes to select geometry
 
-#### Key Features:
+## Key Features:
 
-* **Selection Types:** Filter results by whole geometry, faces, or edges.
-* **Containment Modes:** Choose between 'Overlapping' and 'Strictly Inside'.
-* **Box Behavior:** Treat all input boxes as a single Union area or as individual selection zones.
-* **Advanced Options:** Use Inflate to expand the selection box size and a toggle for 2D-only checks in the X and Y dimensions.
+**Selection Types:** Filter results by whole geometry, faces, or edges.
+**Containment Modes:** Choose between 'Overlapping' and 'Strictly Inside'.
+**Box Behavior:** Treat all input boxes as a single Union area or as individual selection zones.
+**Advanced Options:** Use Inflate to expand the selection box size and a toggle for 2D-only checks in the X and Y dimensions.
 
 ___
 
-### Inputs
+## Inputs
+
 **Geometry**
 Main Geometry
 
@@ -29,7 +30,8 @@ Increase the size of the selection box in all dimensions
 
 ___
 
-### Outputs
+## Outputs
+
 **Geometry Inside**
 The geometry inside the boxes
 
@@ -41,24 +43,25 @@ The index values for all the included geometry
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Overlapping**
-"Explanation..."
+Includes any part of the object that is on or inside the box
 
 **Strictly Inside**
-"Explanation..."
+Only includes objects entirely inside the box
 
 **Union**
-"Explanation..."
+Treat the geometry as a single group of objects
 
-**2D Only Checks_X and Y**
-"Explanation..."
+**2D Only Checks X and Y**
+Only checks whether the box overlaps from the top view, ignoring Z
 
 **Geometry**
-"Explanation..."
+Select geometry objects
 
 **Faces**
-"Explanation..."
+Select Faces on a Brep
 
 **Edges**
-"Explanation..."
+Select Edges on a Brep

@@ -10,7 +10,8 @@ Creates a star shape by defining two circles, one on which creates the outside p
 
 ___
 
-### Inputs
+## Inputs
+
 **Radius A**
 Outer construction circle radius
 
@@ -22,7 +23,8 @@ Number of points
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Individual curves
 

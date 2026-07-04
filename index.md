@@ -16,7 +16,7 @@ The componenets themselves are only half of the story, the other aspect is WorkF
 
 ---
 
-### Getting Started
+## Getting Started
 
 Design Tools works for either Windows or Mac, Rhino 8.  The best place to get them from is Rhino's inbuilt **Package Manager**.  This will ensure everything is located where it should be and can help you always be up-to-date with the latest and greatest version.
 
@@ -27,7 +27,7 @@ Just search for **"DesignTools":**
 
 ---
 
-### Learning the Workflow
+## Learning the Workflow
 
 Tutorials and Sample files should begin to appear in this repo and at YouTube fairly soon...
 

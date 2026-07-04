@@ -10,7 +10,8 @@ Creates a Parallelogram, Trapezium, Rhombus, or Kite shape. The angle of the sid
 
 ___
 
-### Inputs
+## Inputs
+
 **X**
 The X dimension
 
@@ -25,7 +26,8 @@ The angle of the sides
 
 ___
 
-### Outputs
+## Outputs
+
 **Curves**
 Individual curves
 
@@ -37,15 +39,16 @@ Corner Points
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Parallelogram**
-"Explanation..."
+Creates a Parallelogram
 
 **Trapezium**
-"Explanation..."
+Creates a Trapezium
 
 **Rhombus**
-"Explanation..."
+Creates a Rhombus
 
 **Kite**
-"Explanation..."
+Creates a Kite, or a diamond shape

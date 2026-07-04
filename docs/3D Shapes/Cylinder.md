@@ -6,16 +6,18 @@ parent: "3D Shapes"
 
 # Cylinder
 
-Creates an advanced cylinder with customizable fillets.  It supports various geometry styles including:
+Creates an advanced cylinder or cone with customizable fillets.  I
 
-* **Corner Types:** Choose between smooth Blends (C2), Arcs, or Chamfers.
-* **Multi-Sections:** Create multi-arc profiles by adjusting the section count.  Useful for situations where a single, periodic surface causes problems.
-* **End Caps & Fillets:** Control top and bottom capping as well as specific fillet sizes for the ends.
-* **Centering:** Options to center the geometry along its axis or leave it at the origin.
+## Key Features:
+
+**Fillet Types:** Choose between Blends (C2), Arcs, Chamfers, or Arc Blends (C2).
+**Tapered Sides:** Create a frustum or a cone shape.
+**Multi-Sections:** Create multi-arc profiles by adjusting the section count.  Useful for situations where a single, periodic surface causes problems.
 
 ___
 
-### Inputs
+## Inputs
+
 **Top and Bottom Radius**
 Top and Bottom Radius (add 2 values to make a cone)
 
@@ -33,7 +35,8 @@ Blends at the bottom and top
 
 ___
 
-### Outputs
+## Outputs
+
 **Brep**
 Resulting joined cylinder parts
 
@@ -48,21 +51,23 @@ Base arcs for each section
 
 ___
 
-### Menu Options
+## Menu Options
+
 **C2 Corners**
-"Explanation..."
+Smooth blend fillet on each edge
 
 **Arc Corners**
-"Explanation..."
+Simple arc fillet on each edge
 
 **Chamfered Corners**
-"Explanation..."
+Flat edge instead of an arc
 
 **C2 Arc Corners**
-"Explanation..."
+Produces a C2 smooth fillet in each edge that imitates an arc
 
-**cap**
-"Explanation..."
+**Cap**
+Add caps to opens ends of the geometry, creating a closed brep
 
-**centre**
-"Explanation..."
+**Centre**
+If true, the centre of the cylinder will be at the origin
+If false, the base of the cylinder will be at the origin

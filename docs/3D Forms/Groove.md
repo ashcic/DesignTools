@@ -10,7 +10,8 @@ Creates a groove or nipple shape and a cutting edge so that it can easily be put
 
 ___
 
-### Inputs
+## Inputs
+
 **Length**
 Length of the groove
 
@@ -28,7 +29,8 @@ Blend of the edge fillet
 
 ___
 
-### Outputs
+## Outputs
+
 **Brep**
 The final brep
 
@@ -40,6 +42,8 @@ Profile cuves
 
 ___
 
-### Menu Options
-**smooth**
-"Explanation..."
+## Menu Options
+
+**Smooth**
+Creates a Pill shape that has C2 shaped curves approximating arcs in order to create C2 surfaces
+(not yet implemented)

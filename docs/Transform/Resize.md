@@ -8,7 +8,7 @@ parent: "Transform"
 
 Resizes geometry based on target dimensions, reference objects, or both.
 
-#### Key Features:
+## Key Features:
 
 **Manual Sizing:** Input numbers into X, Y, or Z to set exact target sizes.
 **Reference Matching:** Input a boolean *true* to match the size of a reference object for that specific axis.
@@ -17,7 +17,8 @@ Resizes geometry based on target dimensions, reference objects, or both.
 
 ___
 
-### Inputs
+## Inputs
+
 **Geometry**
 Geometry to resize
 
@@ -35,7 +36,8 @@ Z target sizing
 
 ___
 
-### Outputs
+## Outputs
+
 **Geometry**
 Resized geometry
 
@@ -53,12 +55,14 @@ A description of how to use this tool
 
 ___
 
-### Menu Options
+## Menu Options
+
 **Align**
-"Explanation..."
+Align to the reference geometry
 
 **Union**
-"Explanation..."
+Treat the geometry as a single group of objects
 
 **Match**
-"Explanation..."
+Scale all dimensions proportionally to the scaling to the input dimensions
+(Only works if only one dimension has an input)
