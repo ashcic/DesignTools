@@ -6,9 +6,9 @@ parent: "Curve Tools"
 
 # Split Curves
 
-#### Split cuves with one or more planes
+Splits a set of curves using one or more cutting planes. The resulting segments are organized into branches based on the sections created by those planes.
 
-Splits a set of **curves** using multiple **cutting planes**. The resulting segments are organized into branches based on the sections created by those planes.
+### Key Features:
 
 * **Fillet:** Adds rounded ends at the split points.
 * **Blend:** Controls the smoothness of the fillets.
@@ -47,8 +47,8 @@ Intersection points
 ___
 
 ### Menu Options
-**close**
+**Close**
 "Explanation..."
 
-**intersects**
+**Intersects**
 "Explanation..."

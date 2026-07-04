@@ -6,9 +6,7 @@ parent: "3D Tools"
 
 # Extend Surface
 
-#### Extend a surface from an edge
-
-Extends an existing surface outward from one or more of its edges by a specified distance. You can choose to extend specific edges or all sides simultaneously.
+Extends an existing surface outward from one or more of its edges by a specified distance or proportion. You can choose to extend specific edges or all sides simultaneously.
 
 ___
 

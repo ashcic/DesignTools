@@ -6,13 +6,9 @@ parent: "Select"
 
 # Size Select
 
-#### Select geometry based on it's size
-
-Identifies and extracts either the **largest** or **smallest** geometry from a list based on chosen measurement criteria (such as Volume, Area, or Bounding Box size).
+Select geometry based on it's size.  Identifies and extracts either the **Biggest** or **Smallest** geometry from a list based on chosen measurement criteria (such as Volume, Area, or Bounding Box size).
 
 The selected item is sent to the 'Piece' output, while all remaining objects are grouped in the 'Others' output.
-
-</body
 
 ___
 

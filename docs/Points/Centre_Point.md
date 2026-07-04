@@ -6,11 +6,7 @@ parent: "Points"
 
 # Centre Point
 
-#### Get the centre of one or more objects
-
-Finds the center points of input geometry. The component can be toggled between two modes: 
- * **Union**: Returns a single center point for all objects combined.
- * **Individual**: Returns a separate center point for every object in the list.
+Finds the center points of input geometry, either by finding the individual centres of each piece of geometry, or by grouping them in to a union, and finding the overall centre point.
 
 ___
 
@@ -28,7 +24,7 @@ ___
 
 ### Menu Options
 **Union**
-"Explanation..."
+Treats the geometry as a group and returns one point
 
 **Individual**
-"Explanation..."
+Treats the geometry as individuals and returns multiple points

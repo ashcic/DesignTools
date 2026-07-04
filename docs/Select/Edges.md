@@ -6,9 +6,7 @@ parent: "Select"
 
 # Edges
 
-#### Get the edges of a brep
-
-Extracts specific edges from a Brep geometry. It allows you to filter for:
+Get specific edges from a Brep geometry. It allows you to filter for:
 
 * Naked edges
 * Smooth edges
@@ -37,23 +35,17 @@ The number id of each edge
 ___
 
 ### Menu Options
-**naked**
-"Explanation..."
+**Naked**
+Get the unjoined edges
 
-**smooth**
-"Explanation..."
+**Smooth**
+Get the joined edges that are smoothly connected
 
-**sharp**
-"Explanation..."
+**Sharp**
+Get the joined edges that are sharply connected
 
-**loop**
-"Explanation..."
+**Loop**
+Organize these curves into continuous loops.
 
-**show**
-"Explanation..."
-
-**fore_found**
-"Explanation..."
-
-**back_found**
-"Explanation..."
+**Highlight Naked Edges**
+Useful for finding gaps between surfaces that are not joined

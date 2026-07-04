@@ -32,7 +32,7 @@ ___
 
 ### Menu Options
 **Union**
-"Explanation..."
+Treat as a single group of objects
 
 **Individual**
-"Explanation..."
+Treat as individual objects

@@ -6,8 +6,6 @@ parent: "2D Shapes"
 
 # Sausage
 
-#### Create a thickened line shape around curves or points
-
 Creates a thickened, capped geometry shape around input curves with customizable end styles.
 
 **Features:**

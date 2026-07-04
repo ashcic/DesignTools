@@ -6,16 +6,14 @@ parent: "Transform"
 
 # Resize
 
-#### Change the size of the geometry
-
 Resizes geometry based on target dimensions, reference objects, or both.
 
-Key features include:
+#### Key Features:
 
-* **Manual Sizing:** Input numbers into X, Y, or Z to set exact target sizes.
-* **Reference Matching:** Input a boolean *true* to match the size of a reference object for that specific axis.
-* **Alignment:** Automatically aligns and centers geometry relative to a reference object's bounding box.
-* **Group Control:** Choose whether to resize all objects as a single unit (Union) or scale each item individually based on its own center.
+**Manual Sizing:** Input numbers into X, Y, or Z to set exact target sizes.
+**Reference Matching:** Input a boolean *true* to match the size of a reference object for that specific axis.
+**Alignment:** Automatically aligns and centers geometry relative to a reference object's bounding box.
+**Group Control:** Choose whether to resize all objects as a single unit (Union) or scale each item individually based on its own center.
 
 ___
 
@@ -26,13 +24,13 @@ Geometry to resize
 **refs**
 The geometry to use as a reference
 
-**x**
+**X**
 X target sizing
 
-**y**
+**Y**
 Y target sizing
 
-**z**
+**Z**
 Z target sizing
 
 ___
@@ -56,11 +54,11 @@ A description of how to use this tool
 ___
 
 ### Menu Options
-**align**
+**Align**
 "Explanation..."
 
-**union**
+**Union**
 "Explanation..."
 
-**match**
+**Match**
 "Explanation..."

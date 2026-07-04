@@ -6,8 +6,6 @@ parent: "Arrows"
 
 # Arrow
 
-#### Creates a flat arrow shape
-
 Creates a flat arrow shape
 
 * **Length:** The overall length of the arrow.
@@ -17,7 +15,6 @@ Creates a flat arrow shape
 
 Includes a right-click menu option to toggle between single and double-ended arrows.
 
-</body
 
 ___
 

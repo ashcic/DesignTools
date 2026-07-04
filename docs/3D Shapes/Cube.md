@@ -6,30 +6,29 @@ parent: "3D Shapes"
 
 # Cube
 
-#### Create a cube
-
 Creates a 3D cube based on specified X, Y, and Z dimensions. Includes an option to either center the cube on its midpoint or align it starting from its base.
 
 ___
 
 ### Inputs
 **X**
-Description
+X Dimension
 
 **Y**
-Description
+Y Dimension
 
 **Z**
-Description
+Z Dimension
 
 ___
 
 ### Outputs
 **cube**
-Description
+Final Cube
 
 ___
 
 ### Menu Options
 **centre**
-"Explanation..."
+If true, the centre of the cube will be at the origin
+If false, the base of the cube will be at the origin

@@ -6,9 +6,6 @@ parent: "2D Shapes"
 
 # Cog
 
-#### Description
-
-
 Generates gear-like geometry (cogs) based on a circular base. It produces individual curves, joined curves, and control points.
 
 The component provides different tooth styles:

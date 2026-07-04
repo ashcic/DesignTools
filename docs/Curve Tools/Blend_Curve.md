@@ -6,8 +6,6 @@ parent: "Curve Tools"
 
 # Blend_Curve
 
-#### Create and control a Blend Curve between points
-
 Creates a smooth curve between two points with precise control over the orientation at each endpoint.
 
 * **Orientation:** Define the specific direction (Vector) and rotation (Angle) for both the start and end of the curve.

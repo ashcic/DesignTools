@@ -26,4 +26,4 @@ ___
 Moved Geometry
 
 **Transform**
-Vector Movbe
+Vector Move - useful for inpuptting into a Move component and moving other geometry

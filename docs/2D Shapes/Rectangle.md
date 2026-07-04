@@ -6,8 +6,6 @@ parent: "2D Shapes"
 
 # Rectangle
 
-#### Description
-
 Creates a rectangle with customizable dimensions and corner styles. You can choose between sharp corners, chamfered edges, or various types of rounded (Arc) and blended corners.
 
 Key features include:

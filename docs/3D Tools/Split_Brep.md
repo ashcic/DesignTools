@@ -6,9 +6,6 @@ parent: "3D Tools"
 
 # Split Brep
 
-#### Split a brep with a plane
-
-
 Splits a Brep with a plane and optionally applies a filleted transition between the resulting geometry.
 
 * **Fillet:** Sets the radius of the rounded edge. Set to 0 for a sharp, clean cut.

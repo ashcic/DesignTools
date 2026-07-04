@@ -6,8 +6,6 @@ parent: "3D Forms"
 
 # Revolve
 
-#### Created revolved surfaces from profile curves
-
 Revolves profile curves around a line to create 3D surfaces or solids. The rotation angle can be adjusted, and there are options to cap the start and end of the resulting geometry.
 
 ___
@@ -35,7 +33,7 @@ ___
 
 ### Menu Options
 **start_cap**
-"Explanation..."
+Adds a cap on the end which is at the start of the curve
 
 **end_cap**
-"Explanation..."
+Adds a cap on the end which is at the end of the curve

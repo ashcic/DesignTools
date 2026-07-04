@@ -6,9 +6,7 @@ parent: "3D Shapes"
 
 # Cylinder
 
-#### Create an advanced cylinder
-
-Creates a complex cylinder with customizable corner profiles. It supports various geometry styles including:
+Creates an advanced cylinder with customizable fillets.  It supports various geometry styles including:
 
 * **Corner Types:** Choose between smooth Blends (C2), Arcs, or Chamfers.
 * **Multi-Sections:** Create multi-arc profiles by adjusting the section count.  Useful for situations where a single, periodic surface causes problems.

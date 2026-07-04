@@ -6,9 +6,8 @@ parent: "Text"
 
 # Text
 
-#### Create outlines of text and create
 
-Converts a text string into geometry based on a specified style. It provides three types of output: **Curves** for character outlines, **Hatches** (solid surfaces) suitable for exporting to Adobe Illustrator as shapes, and a **Bounds** rectangle for positioning and layout purposes.
+Converts a text into geometry based on a specified style.
 
 ___
 

@@ -6,8 +6,6 @@ parent: "Text"
 
 # Text Style
 
-#### Set the style for the Text node
-
 Defines the styling properties for a Text node. Use this component to set:
 
 * **Font** family

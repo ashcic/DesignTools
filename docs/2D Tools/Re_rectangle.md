@@ -6,8 +6,6 @@ parent: "2D Tools"
 
 # Re_rectangle
 
-#### Construct a rectangle, pill or circle around a reference geometry
-
 Constructs a rectangle, pill shape, or rounded box based on reference geometry.
 
 This tool allows you to:

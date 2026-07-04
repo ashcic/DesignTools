@@ -6,8 +6,6 @@ parent: "3D Forms"
 
 # Curved Volcano
 
-#### Create a protursion with a curve ramped blended surface
-
 Creates a curved, ramped protrusion from a base geometry using profile curves. This component blends a surface into a volcano-like shape with customizable transitions.
 
 Key features: 

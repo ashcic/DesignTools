@@ -6,9 +6,7 @@ parent: "Transform"
 
 # Align
 
-#### Align the geometry in the X, Y or Z dimensions
-
-Arranges multiple geometries into a target area defined by reference geometry, a center point, or their own combined boundaries. You can choose to align the objects as a single group or individually while adjusting the layout size with insets and specific X, Y, Z positions.
+Align the geometry in the X, Y or Z dimensions.  Arranges multiple geometries into a target area defined by reference geometry, a center point, or their own combined boundaries. You can choose to align the objects as a single group or individually while adjusting the layout size with insets and specific X, Y, Z positions.
 
 ___
 
@@ -29,7 +27,7 @@ The geometry to use as a reference
 0, 1 or 2 sets the position to bottom, centre or top
 
 **Inset**
-Description
+Inset the geometry from the reference point
 
 ___
 
@@ -46,35 +44,9 @@ A description of how to use this tool
 ___
 
 ### Menu Options
-**X Left**
-"Explanation..."
-
-**X Centre**
-"Explanation..."
-
-**X Right**
-"Explanation..."
-
-**Y Front**
-"Explanation..."
-
-**Y Centre**
-"Explanation..."
-
-**Y Back**
-"Explanation..."
-
-**Z Bottom**
-"Explanation..."
-
-**Z Centre**
-"Explanation..."
-
-**Z Top**
-"Explanation..."
 
 **union**
-"Explanation..."
+Treat as a single group of objects
 
 **centre**
-"Explanation..."
+Align around the Origin

@@ -6,9 +6,7 @@ parent: "3D Forms"
 
 # Groove
 
-#### Create a groove or nipple shape
-
-Creates a 3D groove or nipple shape. You can adjust the dimensions of the profile using Length, Radius, and Depth, while Fillet and Blend parameters allow for smoothed edges.
+Creates a groove or nipple shape and a cutting edge so that it can easily be put into a surface. You can adjust the dimensions of the profile using Length, Radius, and Depth, while Fillet and Blend parameters allow for smoothed edges.
 
 ___
 

@@ -6,8 +6,6 @@ parent: "2D Shapes"
 
 # Pill
 
-#### Create a Pill or Race-track shape
-
 Creates a Pill or Race-track shape based on X and Y dimensions.
 
 **Inputs:**

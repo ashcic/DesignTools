@@ -6,8 +6,6 @@ parent: "3D Forms"
 
 # Extrude Indent
 
-#### Creates extrudes, indents, or through-holes
-
 Creates extruded shapes, indents, or through-holes from curves. It allows for generating 3D forms with fillets and blends, as well as carving simple indentations into existing solid or hollow geometry.
 
 ___

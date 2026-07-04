@@ -6,12 +6,7 @@ parent: "Curve Tools"
 
 # Extend_Curve
 
-#### Extend or trim back a curve from either end
-
-Extends or trims a curve from its start and/or end points. Use positive values to lengthen the curve and negative values to shorten it.
-
-* **Absolute:** When Proportional is off, inputs are treated as fixed units of length.
-* **Proportional:** When Proportional is on, inputs are treated as a percentage of the total curve length (e.g., 0.5 for 50%).
+Extends or trims a curve from its start and end points. Use positive values to lengthen the curve and negative values to shorten it.
 
 ___
 
@@ -35,4 +30,5 @@ ___
 
 ### Menu Options
 **proportional**
-"Explanation..."
+When Proportional is off, inputs are treated as fixed units of length.
+When Proportional is on, inputs are treated as a percentage of the total curve length (e.g., 0.5 for 50%).

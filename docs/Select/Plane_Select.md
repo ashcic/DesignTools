@@ -6,20 +6,13 @@ parent: "Select"
 
 # Plane Select
 
-#### Use a Plane to select geometry
-
-Splits geometry into two groups—those situated above/on a reference plane and those below it.
+Use a Plane to select geometry.  Divide the geometry into two groups — those situated above/on a reference plane and those below it.
 
 **Selection Levels:**
 
 * Geometry
 * Faces
 * Edges
-
-**Selection Rules:**
-
-* Overlapping: Includes any part of the object that is above or on the plane.
-* Strictly Inside: Only includes objects entirely above the plane.
 
 ___
 
@@ -46,16 +39,16 @@ ___
 
 ### Menu Options
 **Overlapping**
-"Explanation..."
+Includes any part of the object that is above or on the plane.
 
 **Strictly Inside**
-"Explanation..."
+Only includes objects entirely above the plane.
 
 **Geometry**
-"Explanation..."
+Selects full geometry objects
 
 **Faces**
-"Explanation..."
+For Breps, selects certain faces
 
 **Edges**
-"Explanation..."
+For Breps, selects certain edges

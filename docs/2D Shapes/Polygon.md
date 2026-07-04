@@ -6,8 +6,6 @@ parent: "2D Shapes"
 
 # Polygon
 
-#### Create a polygon with sharp, rounded or chamfered corners
-
 Creates a regular polygon based on a radius and number of sides, with customizable corner treatments.
 
 * **Fillets & Blends:** Create smooth, rounded corners with adjustable size and curvature.

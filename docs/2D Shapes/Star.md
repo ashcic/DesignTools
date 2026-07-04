@@ -6,8 +6,6 @@ parent: "2D Shapes"
 
 # Star
 
-#### Creates a star shape defined by the outer and inner radii
-
 Creates a star shape by defining two circles, one on which creates the outside points, the other creates the inside valleys.
 
 ___

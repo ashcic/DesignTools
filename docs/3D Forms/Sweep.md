@@ -6,9 +6,12 @@ parent: "3D Forms"
 
 # Sweep
 
-#### Sweep Profile around a rail
+Sweeps profile curves along rail paths to create surfaces and solids. 
 
-Sweeps profile curves along rail paths to create surfaces and solids. Use the **Origin** input to control the orientation and positioning of the profiles, and use the **Cap** menu option to automatically close the ends of the geometry.
+### Key Functions:
+
+**Origin** input to control the orientation and positioning of the profiles
+**Cap** menu option to automatically close the ends of the geometry.
 
 ___
 

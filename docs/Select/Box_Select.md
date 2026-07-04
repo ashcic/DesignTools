@@ -6,11 +6,9 @@ parent: "Select"
 
 # Box Select
 
-#### Use Bounding Boxes to select geometry
-
 Use Bounding Boxes to select geometry
 
-**Key Features:**
+#### Key Features:
 
 * **Selection Types:** Filter results by whole geometry, faces, or edges.
 * **Containment Modes:** Choose between 'Overlapping' and 'Strictly Inside'.
@@ -50,6 +48,12 @@ ___
 **Strictly Inside**
 "Explanation..."
 
+**Union**
+"Explanation..."
+
+**2D Only Checks_X and Y**
+"Explanation..."
+
 **Geometry**
 "Explanation..."
 
@@ -57,19 +61,4 @@ ___
 "Explanation..."
 
 **Edges**
-"Explanation..."
-
-**union**
-"Explanation..."
-
-**check_xy**
-"Explanation..."
-
-**found**
-"Explanation..."
-
-**found**
-"Explanation..."
-
-**found**
 "Explanation..."
