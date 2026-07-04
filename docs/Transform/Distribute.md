@@ -6,7 +6,23 @@ parent: "Transform"
 
 # Distribute
 
-Distribute the geometry with even gaps
+#### Distribute the geometry with even gaps
+
+Distributes geometry across a bounding box with uniform gaps or specific alignment points.
+
+* **Geometry:** The objects to be distributed.
+* **Reference Geo:** The boundary for distribution (optional). If empty, the bounding box of the input geometry is used.
+* **X, Y, Z:** Use *True/False* to force the geometry to match the reference size in that dimension, or a *Number* to set a specific gap distance between objects.
+* **Insets:** The amount to offset the distribution from the edges of the bounding box.
+
+**Distribution Modes (Centre):**
+
+* 0 - Even Gaps
+* 1 - From Left (Min)
+* 2 - From Centres
+* 3 - From Right (Max)
+
+The **Order** toggle sorts items by position, and the **Align** toggle snaps the final group to the reference boundary.
 
 ___
 

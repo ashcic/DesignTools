@@ -6,7 +6,9 @@ parent: "2D Shapes"
 
 # Triangle
 
-Creates a triangle that can be oriented in different directions
+#### Creates a triangle that can be oriented in different directions
+
+Use an integer number slider in the 'orient' input to change the direction it is pointing
 
 ___
 

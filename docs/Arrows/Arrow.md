@@ -6,7 +6,18 @@ parent: "Arrows"
 
 # Arrow
 
+#### Creates a flat arrow shape
+
 Creates a flat arrow shape
+
+* **Length:** The overall length of the arrow.
+* **Width:** The thickness of the shaft.
+* **Head:** The size of the arrowhead.
+* **Barb:** The width of the decorative barbs.
+
+Includes a right-click menu option to toggle between single and double-ended arrows.
+
+</body
 
 ___
 

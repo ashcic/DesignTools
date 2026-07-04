@@ -6,7 +6,19 @@ parent: "2D Shapes"
 
 # Sausage
 
-Create a thickened line shape around curves or points
+#### Create a thickened line shape around curves or points
+
+Creates a thickened, capped geometry shape around input curves with customizable end styles.
+
+**Features:**
+
+* Adjust the **thickness** of the main body.
+* Choose from various **end cap types** (Round, Flat, Arrow, Circle, Square, or Bar).
+* Control the length and scale of **head extensions** and **barbs**.
+
+The component outputs joined geometry, individual curves, and hatches suitable for export to Adobe Illustrator.
+
+*Note: Input curves must be flat on the XY plane.*
 
 ___
 

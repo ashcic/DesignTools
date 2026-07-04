@@ -6,7 +6,11 @@ parent: "Arrows"
 
 # Arc Arrow
 
-Creates a 2D arrow in an arc shape
+#### Creates a 2D arrow in an arc shape
+
+Creates a 2D arrow based on an arc geometry. Adjust parameters to define the radius, length, shaft width, and arrowhead proportions.
+
+Includes options for **double-ended** arrows and **centered** orientations.
 
 ___
 

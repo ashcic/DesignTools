@@ -6,7 +6,10 @@ parent: "2D Shapes"
 
 # Asterisk
 
-Creates an Astrix shape
+#### Creates an Astrix shape
+
+
+Creates an asterisk-like shape with multiple radiating arms. You can customize the overall radius, the width of each arm, and the total number of arms. The component offers three distinct styles: **Flat**, **Arched**, and **Round**.
 
 ___
 

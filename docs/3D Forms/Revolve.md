@@ -6,7 +6,9 @@ parent: "3D Forms"
 
 # Revolve
 
-Created revolved surfaces from profile curves
+#### Created revolved surfaces from profile curves
+
+Revolves profile curves around a line to create 3D surfaces or solids. The rotation angle can be adjusted, and there are options to cap the start and end of the resulting geometry.
 
 ___
 

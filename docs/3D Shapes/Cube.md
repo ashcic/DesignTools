@@ -6,7 +6,9 @@ parent: "3D Shapes"
 
 # Cube
 
-Create a cube
+#### Create a cube
+
+Creates a 3D cube based on specified X, Y, and Z dimensions. Includes an option to either center the cube on its midpoint or align it starting from its base.
 
 ___
 

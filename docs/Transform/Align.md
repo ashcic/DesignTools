@@ -6,7 +6,9 @@ parent: "Transform"
 
 # Align
 
-Align the geometry in the X, Y or Z dimensions
+#### Align the geometry in the X, Y or Z dimensions
+
+Arranges multiple geometries into a target area defined by reference geometry, a center point, or their own combined boundaries. You can choose to align the objects as a single group or individually while adjusting the layout size with insets and specific X, Y, Z positions.
 
 ___
 

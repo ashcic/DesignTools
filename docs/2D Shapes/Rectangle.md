@@ -6,7 +6,15 @@ parent: "2D Shapes"
 
 # Rectangle
 
-Description
+#### Description
+
+Creates a rectangle with customizable dimensions and corner styles. You can choose between sharp corners, chamfered edges, or various types of rounded (Arc) and blended corners.
+
+Key features include:
+
+* **Individual Corner Control:** Set unique radii or blend values for each of the four corners.
+* **Corner Types:** Switch between C2 Corners, Arc Corners, Chamfered Corners, and C2 Arc Corners via the component menu.
+* **Geometry Outputs:** Provides the joined curve, individual segments, and corner points for further analysis.
 
 ___
 

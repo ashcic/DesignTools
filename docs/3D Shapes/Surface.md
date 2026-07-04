@@ -6,7 +6,12 @@ parent: "3D Shapes"
 
 # Surface
 
-Create a rectangular surface or flat boundry surface
+#### Create a rectangular surface or flat boundry surface
+
+Creates either a rectangular surface based on dimensions or a flat boundary surface from a set of curves.
+
+* **Rectangular Surface:** Provide X and Y dimensions to generate a rectangle oriented to the input Plane.
+* **Boundary Surface:** Provide a list of curves to create a flat surface bounded by those curves (X and Y inputs are ignored in this mode).
 
 ___
 

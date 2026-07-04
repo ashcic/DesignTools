@@ -6,7 +6,9 @@ parent: "Transform"
 
 # Place
 
-Place geometry on a plane
+#### Place geometry on a plane
+
+Moves geometry from its current location onto a target plane, matching the orientation and position of that plane.
 
 ___
 

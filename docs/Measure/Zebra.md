@@ -6,7 +6,9 @@ parent: "Measure"
 
 # Zebra
 
-Check surface curvature
+#### Check surface curvature
+
+Visualizes zebra stripes over a surface to help analyze curvature and smoothness. The size and rotation of the stripes can be adjusted using the scale and rotate inputs.
 
 ___
 

@@ -6,7 +6,9 @@ parent: "Transform"
 
 # Centre
 
-Finds the centre of geometry
+#### Finds the centre of geometry
+
+Finds the centre of geometry based on bounding boxes.<br><br>• **Union:** Get the centre of all items together as one group.<br>• **Individual:** Get the centres of each item independently.
 
 ___
 

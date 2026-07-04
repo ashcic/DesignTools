@@ -6,7 +6,16 @@ parent: "Transform"
 
 # Locate
 
-Locate a plane on geometry in order to place things on it
+#### Locate a plane on geometry in order to place things on it
+
+This component helps you identify a specific face on geometry and create a local coordinate plane at a precise location on that surface. It is ideal for positioning objects accurately onto complex shapes.
+
+**Key Features:**
+
+ * *Face Selection:* Choose a specific face using the index input (visualized with numbered arrows).
+ * *Positioning:* Place the plane using a 0-10 grid system or manually via U and V insets.
+ * *Offsetting:* Move the resulting plane away from the surface along its normal direction.
+ * *Multi-Object Support:* Automatically creates a bounding box to calculate positions for groups of objects.
 
 ___
 

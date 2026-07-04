@@ -6,7 +6,9 @@ parent: "Points"
 
 # Average Point
 
-The average point in a list of points
+#### The average point in a list of points
+
+Calculates the average position of a collection of 3D points.
 
 ___
 

@@ -6,7 +6,16 @@ parent: "2D Shapes"
 
 # Polygon
 
-Create a polygon with sharp, rounded or chamfered corners
+#### Create a polygon with sharp, rounded or chamfered corners
+
+Creates a regular polygon based on a radius and number of sides, with customizable corner treatments.
+
+* **Fillets & Blends:** Create smooth, rounded corners with adjustable size and curvature.
+* **Arcs:** Create perfectly circular corner joints.
+* **Chamfers:** Create flat, angled corners.
+* **C2 Corners:** Provide smooth, high-continuity transitions for organic shapes.
+
+Outputs include the construction circle, joined curves, individual segments, fillet centers, and vertex points.
 
 ___
 

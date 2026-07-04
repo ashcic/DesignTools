@@ -6,7 +6,9 @@ parent: "Measure"
 
 # Dimensions
 
-Get the Bounding Box Dimensions of geometry
+#### Get the Bounding Box Dimensions of geometry
+
+Get the X, Y and Z bounding box dimensions of geometry
 
 ___
 

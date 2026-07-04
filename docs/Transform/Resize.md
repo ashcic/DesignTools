@@ -6,7 +6,16 @@ parent: "Transform"
 
 # Resize
 
-Change the size of the geometry
+#### Change the size of the geometry
+
+Resizes geometry based on target dimensions, reference objects, or both.
+
+Key features include:
+
+* **Manual Sizing:** Input numbers into X, Y, or Z to set exact target sizes.
+* **Reference Matching:** Input a boolean *true* to match the size of a reference object for that specific axis.
+* **Alignment:** Automatically aligns and centers geometry relative to a reference object's bounding box.
+* **Group Control:** Choose whether to resize all objects as a single unit (Union) or scale each item individually based on its own center.
 
 ___
 

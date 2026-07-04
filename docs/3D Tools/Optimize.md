@@ -6,7 +6,14 @@ parent: "3D Tools"
 
 # Optimize
 
-Optimize a brep
+#### Optimize a brep
+
+
+Cleans and simplifies Brep geometry. It provides options to:
+
+* Merge coplanar faces and redundant edges
+* Fix inward-facing solid orientations
+* Shrink faces and compact internal structures
 
 ___
 

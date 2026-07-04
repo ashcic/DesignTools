@@ -6,7 +6,9 @@ parent: "Transform"
 
 # Nudge
 
-Nudge geometry in small amounts in X, Y and Z
+#### Nudge geometry in small amounts in X, Y and Z
+
+Translates input geometry by a small increment along either the X, Y, or Z axis. This is useful for making precise manual adjustments to the position of objects.
 
 ___
 

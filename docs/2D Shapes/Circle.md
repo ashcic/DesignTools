@@ -6,7 +6,14 @@ parent: "2D Shapes"
 
 # Circle
 
-Create an advanced Circle
+#### Create an advanced Circle
+
+Creates a set of arcs that form a circle based on a specified radius and the number of segments.
+
+This component provides:
+
+* **Arcs:** The individual curved segments making up the shape.
+* **Points:** The shared endpoints between each arc.
 
 ___
 

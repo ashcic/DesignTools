@@ -6,7 +6,15 @@ parent: "Select"
 
 # Edges
 
-Get the edges of a brep
+#### Get the edges of a brep
+
+Extracts specific edges from a Brep geometry. It allows you to filter for:
+
+* Naked edges
+* Smooth edges
+* Sharp edges
+
+The component can also organize these curves into continuous loops.
 
 ___
 

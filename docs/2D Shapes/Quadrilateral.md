@@ -6,7 +6,7 @@ parent: "2D Shapes"
 
 # Quadrilateral
 
-Creates a Quadrilateral Shape
+Creates a Parallelogram, Trapezium, Rhombus, or Kite shape. The angle of the sides can either be set by using the angle input or the inset input.
 
 ___
 

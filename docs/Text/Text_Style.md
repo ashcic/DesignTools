@@ -6,7 +6,16 @@ parent: "Text"
 
 # Text Style
 
-Set the style for the Text node
+#### Set the style for the Text node
+
+Defines the styling properties for a Text node. Use this component to set:
+
+* **Font** family
+* **Text Case** (Normal, Upper, Lower, or Title case)
+* **Height** of the text
+* **Alignment** (Horizontal and Vertical positions)
+
+The output provides a formatted style string for use with the corresponding Text component.
 
 ___
 

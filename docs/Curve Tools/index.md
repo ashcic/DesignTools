@@ -2,7 +2,7 @@
 layout: default
 title: "Curve Tools"
 has_children: true
-nav_order: 9
+nav_order: 10
 ---
 
 # Curve Tools

@@ -6,7 +6,9 @@ parent: "3D Tools"
 
 # Blend Surface
 
-Create a blend surface between two Breps
+#### Create a blend surface between two Breps
+
+Creates a smooth transition surface between two **Breps** along specified edges. It allows you to control the curvature influence of each side and adjust the number of sections to define the blend's resolution.
 
 ___
 
