@@ -4,11 +4,11 @@ title: "Re_rectangle"
 parent: "2D Tools"
 ---
 
-# Re_rectangle
+# Re-Rectangle
 
 Constructs a rectangle, pill shape, or rounded box based on reference geometry.
 
-This tool allows you to:
+## Key Features:
 
 **Generate Offsets:** Create multiple concentric shapes using the Offset input.
 **Customize Corners:** Choose between Arc, Chamfered, and Blended (C2) corner styles via the component menu.
