@@ -2,7 +2,7 @@
 layout: default
 title: "Measure"
 has_children: true
-nav_order: 9
+nav_order: 8
 ---
 
 # Measure
