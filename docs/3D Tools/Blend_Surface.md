@@ -1,0 +1,39 @@
+---
+layout: default
+title: "Blend Surface"
+parent: "3D Tools"
+---
+
+# Blend Surface
+
+Create a blend surface between two Breps
+
+___
+
+### Inputs
+**Brep A**
+First Brep
+
+**Brep B**
+Second Brep
+
+**Edge A**
+Edge on First Brep
+
+**Edge B**
+Edge on Second Brep
+
+**Blend A**
+Influence of First Brep on the surface curvature
+
+**Blend B**
+Influence of Second Brep on the surface curvature
+
+**Number of Sections**
+Number of sections controlling the blend surface
+
+___
+
+### Outputs
+**surface**
+Blend Surface
