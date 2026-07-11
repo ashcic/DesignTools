@@ -6,8 +6,7 @@ permalink: /
 
 description: High-performance C# Grasshopper plugin suite of high-performance Rhino Grasshopper components created to make the industrial design workflow fast and flexible.
 
-url: "https://ashcic.github.io"
-baseurl: "/DesignTools"
+url: "https://ashcic.github.io/DesignTools"
 
 # Global fallback preview asset
 image: "/images/Design_Tools_400.png"
