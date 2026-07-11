@@ -23,7 +23,7 @@ Design Tools works for either Windows or Mac, Rhino 8.  The best place to get th
 Just search for **"DesignTools":**
 
 
-<img width="800" height="600" alt="PackageManager" src="https://github.com/user-attachments/assets/094473dd-8360-40cb-ba16-371816fe86d0" />
+<img width="800" height="600" alt="How to install Design Tools" src="/images/PackageManager.png" />
 
 ---
 
