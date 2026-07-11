@@ -9,4 +9,4 @@ nav_order: 2
 
 This section contains a range of customisable 2D Shapes components.
 
-<img width="510" height="225" alt="2D Shapes Grasshopper Tools Shelf" src="../../images/2D_SHAPES_200.png" />
+<img width="510" height="342" alt="2D Shapes Grasshopper Components Shelf" src="../../images/2D_SHAPES_200.png" />

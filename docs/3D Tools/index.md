@@ -8,3 +8,5 @@ nav_order: 5
 # 3D Tools
 
 This section contains a range of customisable 3D Tools components.
+
+<img width="210" height="342" alt="3D Tools Grasshopper Components Shelf" src="../../images/3D_TOOLS_200.png" />
