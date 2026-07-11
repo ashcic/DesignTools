@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="400" alt="Design Tools for Grasshopper - Component Logo Graphic" src="/images/Design_Tools_400.png" />
+  <img width="400" height="400" alt="Design Tools for Grasshopper - Component Logo Graphic" src="images/Design_Tools_400.png" />
 </p>
 
 # Design Tools for Grasshopper
@@ -17,7 +17,7 @@ Design Tools works for either Windows or Mac, Rhino 8.  The best place to get th
 Just search for **"DesignTools":**
 
 
-<img width="800" height="600" alt="Installing Design Tools plugin using the native Rhino Package Manager interface" src="/images/PackageManager.png" />
+<img width="800" height="600" alt="Installing Design Tools plugin using the native Rhino Package Manager interface" src="images/PackageManager.png" />
 
 ---
 
