@@ -3,9 +3,18 @@ layout: default
 title: Introduction
 nav_order: 1
 permalink: /
+
+description: High-performance C# Grasshopper plugin suite of high-performance Rhino Grasshopper components created to make the industrial design workflow fast and flexible.
+
+url: "https://ashcic.github.io"
+baseurl: "/DesignTools"
+
+# Global fallback preview asset
+image: "/images/Design_Tools_400.png"
+
 ---
 <p align="center">
-  <img width="400" height="400" alt="Design Tools Main Logo" src="/images/Design_Tools_400.png" />
+  <img width="400" height="400" alt="Design Tools for Grasshopper - Component Logo Graphic" src="/images/Design_Tools_400.png" />
 </p>
 
 # Design Tools for Grasshopper
@@ -23,7 +32,7 @@ Design Tools works for either Windows or Mac, Rhino 8.  The best place to get th
 Just search for **"DesignTools":**
 
 
-<img width="800" height="600" alt="How to install Design Tools" src="/images/PackageManager.png" />
+<img width="800" height="600" alt="Installing Design Tools plugin using the native Rhino Package Manager interface" src="/images/PackageManager.png" />
 
 ---
 
