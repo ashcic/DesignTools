@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 <p align="center">
-  <img width="400" height="400" alt="Design_Tools_400" src="https://github.com/user-attachments/assets/0a09618c-cc3b-4d4c-a66d-2bedffc88dc7" />
+  <img width="400" height="400" alt="Design Tools Main Logo" src="/images/Design_Tools_400.png" />
 </p>
 
 # Design Tools for Grasshopper
