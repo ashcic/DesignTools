@@ -12,7 +12,7 @@ image: "images/Design_Tools_400.png"
 
 ---
 <p align="center">
-  <img width="400" height="400" alt="Design Tools for Grasshopper - Component Logo Graphic" src="images/Design_Tools_400.png" />
+  <img width="400" height="400" alt="Design Tools for Grasshopper - Component Logo Graphic" src="../images/Design_Tools_400.png" />
 </p>
 
 # Design Tools for Grasshopper
@@ -30,7 +30,7 @@ Design Tools 适用于 Windows 或 Mac，Rhino 8。获取它们的最佳位置�
 只需搜索 **"DesignTools"：**
 
 
-<img width="800" height="600" alt="Installing Design Tools plugin using the native Rhino Package Manager interface" src="images/PackageManager.png" />
+<img width="800" height="600" alt="Installing Design Tools plugin using the native Rhino Package Manager interface" src="../images/PackageManager.png" />
 
 ---
 
