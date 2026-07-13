@@ -13,7 +13,8 @@ parent: "Measure"
 <div class="component-box box-desc" markdown="1">
 Check surface curvature, by visualizing zebra stripes over a surface to help analyze curvature and smoothness. The size and rotation of the stripes can be adjusted using the scale and rotate inputs.
 </div>
-
+<div class="component-box box-desc" markdown="1">
+</div>
 <div class="component-box box-in" markdown="1">
 ## Inputs
 

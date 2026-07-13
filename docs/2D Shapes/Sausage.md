@@ -13,7 +13,7 @@ parent: "2D Shapes"
 <div class="component-box box-desc" markdown="1">
 Creates a thickened, capped geometry shape around input curves with customizable end styles.
 
-**Features:**
+**Key Features:**
 
 * Adjust the **thickness** of the main body.
 * Choose from various **end cap types** (Round, Flat, Arrow, Circle, Square, or Bar).
@@ -23,7 +23,8 @@ The component outputs joined geometry, individual curves, and hatches suitable f
 
 *Note: Input curves must be flat on the XY plane.*
 </div>
-
+<div class="component-box box-desc" markdown="1">
+</div>
 <div class="component-box box-in" markdown="1">
 ## Inputs
 
@@ -39,10 +40,10 @@ Length of the head
 **Barb**  
 Size of the exension
 
-**start**  
+**Start**  
 Start head type ID (0=Round, 1=Flat, 2=Arrow, 3=Circle, 4=Square, 5=Bar)
 
-**end**  
+**End**  
 End head type ID (0=Round, 1=Flat, 2=Arrow, 3=Circle, 4=Square, 5=Bar)
 </div>
 

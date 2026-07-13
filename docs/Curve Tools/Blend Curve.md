@@ -17,7 +17,8 @@ Creates a smooth curve between two points with precise control over the orientat
 **Optional Curves:** Blend into or out of existing curves to match specific radii or shapes.
 **Blend Influence:** Control how much the start and end settings influence the overall curvature of the result.
 </div>
-
+<div class="component-box box-desc" markdown="1">
+</div>
 <div class="component-box box-in" markdown="1">
 ## Inputs
 

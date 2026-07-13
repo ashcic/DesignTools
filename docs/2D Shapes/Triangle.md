@@ -13,7 +13,8 @@ parent: "2D Shapes"
 <div class="component-box box-desc" markdown="1">
 Creates a triangle that can be oriented in different directions.  Use an integer number slider in the 'orient' input to change the direction it is pointing
 </div>
-
+<div class="component-box box-desc" markdown="1">
+</div>
 <div class="component-box box-in" markdown="1">
 ## Inputs
 

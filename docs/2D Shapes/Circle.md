@@ -18,7 +18,7 @@ This component provides:
 **Arcs:** The individual curved segments making up the shape.
 **Points:** The shared endpoints between each arc.
 </div>
-<div class="component-box box-menu" markdown="1">
+<div class="component-box box-desc" markdown="1">
 </div>
 <div class="component-box box-in" markdown="1">
 ## Inputs

@@ -13,7 +13,8 @@ parent: "Text"
 <div class="component-box box-desc" markdown="1">
 Converts a text into geometry based on a specified style.
 </div>
-
+<div class="component-box box-desc" markdown="1">
+</div>
 <div class="component-box box-in" markdown="1">
 ## Inputs
 

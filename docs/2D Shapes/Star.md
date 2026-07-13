@@ -13,7 +13,8 @@ parent: "2D Shapes"
 <div class="component-box box-desc" markdown="1">
 Creates a star shape by defining two circles, one on which creates the outside points, the other creates the inside valleys.
 </div>
-
+<div class="component-box box-desc" markdown="1">
+</div>
 <div class="component-box box-in" markdown="1">
 ## Inputs
 

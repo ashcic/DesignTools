@@ -11,7 +11,7 @@ parent: "Transform"
 <div class="component-grid" markdown="1">
 
 <div class="component-box box-desc" markdown="1">
-Locate a plane on geometry in order to place things on it
+Locate a plane on geometry in order to place things on it.  There are 11 standard positions for the plane on a face, plus, the plane can be moved in the U and V directions and offset from the surface (W).  This tool also gives you the ability to extract a face and the edges of a face from a Brep.
 </div>
 
 <div class="component-box box-menu" markdown="1">

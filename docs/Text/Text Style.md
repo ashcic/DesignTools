@@ -20,7 +20,8 @@ Defines the styling properties for a Text node. Use this component to set:
 
 The output provides a formatted style string for use with the corresponding Text component.
 </div>
-
+<div class="component-box box-desc" markdown="1">
+</div>
 <div class="component-box box-in" markdown="1">
 ## Inputs
 

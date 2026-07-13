@@ -13,7 +13,8 @@ parent: "Points"
 <div class="component-box box-desc" markdown="1">
 The average point from a list of points
 </div>
-
+<div class="component-box box-desc" markdown="1">
+</div>
 <div class="component-box box-in" markdown="1">
 ## Inputs
 

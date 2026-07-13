@@ -13,7 +13,8 @@ parent: "Measure"
 <div class="component-box box-desc" markdown="1">
 Get the Bounding Box Dimensions of geometry as X, Y and Z values.
 </div>
-
+<div class="component-box box-desc" markdown="1">
+</div>
 <div class="component-box box-in" markdown="1">
 ## Inputs
 
