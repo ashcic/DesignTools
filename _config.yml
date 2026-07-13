@@ -6,3 +6,14 @@ remote_theme: just-the-docs/just-the-docs
 
 # Enable the built-in search engine
 search_enabled: true
+
+collections:
+  zh:
+    output: true
+    permalink: /zh/:path/
+
+just_the_docs:
+  collections:
+    zh:
+      name: "中文文档"
+      nav_fold: true # Folds the collection under an accordion drop-down by default
