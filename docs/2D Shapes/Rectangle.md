@@ -40,10 +40,10 @@ The X Dimension
 The Y Dimension
 
 **Radii**  
-You can add multiple dimensions for multiple radii
+You can add up to four different radius values for different sized corners
 
 **Blends**  
-Control how much the corners blend into the sides
+Control how much the corners blend into the sides (typically values are between 0.0 - 1.0).  You can also add up to 4 inputs for different blend profiles on each corner.
 </div>
 
 <div class="component-box box-out" markdown="1">

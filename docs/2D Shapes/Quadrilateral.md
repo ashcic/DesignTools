@@ -27,7 +27,7 @@ Creates a Trapezium
 Creates a Rhombus
 
 **Kite**  
-Creates a Kite, or a diamond shape
+Creates a Kite, or a Diamond shape
 </div>
 
 <div class="component-box box-in" markdown="1">

@@ -13,10 +13,6 @@ parent: "2D Shapes"
 <div class="component-box box-desc" markdown="1">
 Creates a set of arcs that form a circle based on a specified radius and the number of segments.
 
-This component provides:
-
-**Arcs:** The individual curved segments making up the shape.
-**Points:** The shared endpoints between each arc.
 </div>
 <div class="component-box box-desc" markdown="1">
 </div>

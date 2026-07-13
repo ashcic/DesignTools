@@ -29,9 +29,6 @@ Flat edge instead of an arc
 
 **C2 Arc Corners**  
 Produces a C2 smooth radius in each corner that imitates an arc
-
-**Match**  
-Scale the polygon so that the corner radius touch the construction circle
 </div>
 
 <div class="component-box box-in" markdown="1">

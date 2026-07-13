@@ -11,7 +11,7 @@ parent: "2D Shapes"
 <div class="component-grid" markdown="1">
 
 <div class="component-box box-desc" markdown="1">
-Creates a Pill or Race-track shape based on X and Y dimensions.
+Creates a Pill or Race-track shape based on X and Y dimensions.  Use 'Orient' to adjust where it is placed, which is useful for building out details which are aligned to a corner.
 </div>
 
 <div class="component-box box-menu" markdown="1">
