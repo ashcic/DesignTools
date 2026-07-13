@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Introduction"
-permalink: /
+nav_order: 1
+permalink: /zh/
+
 
 url: "https://ashcic.github.io/DesignTools"
 
