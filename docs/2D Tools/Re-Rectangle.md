@@ -11,11 +11,11 @@ parent: "2D Tools"
 
 Constructs a rectangle, pill shape, or rounded box based on reference geometry.
 
-## Key Features:
+## Key Features: 
 
-**Generate Offsets:** Create multiple concentric shapes using the Offset input.
-**Customize Corners:** Choose between Arc, Chamfered, and Blended (C2) corner styles via the component menu.
-**Control Radii:** Set individual radii for each of the four corners or use the 'Match' parameter to sync them with existing geometry dimensions.
+**Generate Offsets:** Create multiple concentric shapes using the Offset input.  
+**Customize Corners:** Choose between Arc, Chamfered, and Blended (C2) corner styles via the component menu.  
+**Control Radii:** Set individual radii for each of the four corners or use the 'Match' parameter to sync them with existing geometry dimensions.  
 
 ___
 
