@@ -4,6 +4,7 @@ title: "Introduction"
 nav_order: 1
 permalink: /zh/
 
+description: 一套高性能 Rhino3D Grasshopper 插件组件，旨在实现快速且灵活的工业设计工作流程。
 
 url: "https://ashcic.github.io/DesignTools"
 
