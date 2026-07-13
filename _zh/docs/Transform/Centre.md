@@ -6,7 +6,7 @@ parent: "Transform"
 
 # Centre
 
-<img width="200" height="200" alt="Centre component icon" src="../../../images/Centre_400.png" />
+<img width="200" height="200" alt="Centre component icon" src="../../images/Centre_400.png" />
 
 <div class="component-grid" markdown="1">
 <div class="component-box box-desc" markdown="1">

@@ -15,5 +15,5 @@ collections:
 just_the_docs:
   collections:
     zh:
-      name: "中文文档"
+      name: "中文"
       nav_fold: true # Folds the collection under an accordion drop-down by default

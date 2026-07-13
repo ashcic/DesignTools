@@ -6,7 +6,7 @@ parent: "2D Shapes"
 
 # Circle
 
-<img width="200" height="200" alt="Circle component icon" src="../../../images/Circle_400.png" />
+<img width="200" height="200" alt="Circle component icon" src="../../images/Circle_400.png" />
 
 <div class="component-grid" markdown="1">
 

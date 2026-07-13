@@ -6,7 +6,7 @@ parent: "3D Forms"
 
 # Sweep
 
-<img width="200" height="200" alt="Sweep component icon" src="../../../images/Sweep_400.png" />
+<img width="200" height="200" alt="Sweep component icon" src="../../images/Sweep_400.png" />
 
 <div class="component-grid" markdown="1">
 

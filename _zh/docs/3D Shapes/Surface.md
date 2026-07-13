@@ -6,7 +6,7 @@ parent: "3D Shapes"
 
 # Surface
 
-<img width="200" height="200" alt="Surface component icon" src="../../../images/Surface_400.png" />
+<img width="200" height="200" alt="Surface component icon" src="../../images/Surface_400.png" />
 
 <div class="component-grid" markdown="1">
 

@@ -6,7 +6,7 @@ parent: "Transform"
 
 # Align
 
-<img width="200" height="200" alt="Align component icon" src="../../../images/Align_400.png" />
+<img width="200" height="200" alt="Align component icon" src="../../images/Align_400.png" />
 
 <div class="component-grid" markdown="1">
 

@@ -6,7 +6,7 @@ parent: "2D Shapes"
 
 # Pill
 
-<img width="200" height="200" alt="Pill component icon" src="../../../images/Pill_400.png" />
+<img width="200" height="200" alt="Pill component icon" src="../../images/Pill_400.png" />
 
 <div class="component-grid" markdown="1">
 

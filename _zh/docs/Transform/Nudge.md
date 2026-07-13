@@ -6,7 +6,7 @@ parent: "Transform"
 
 # Nudge
 
-<img width="200" height="200" alt="Nudge component icon" src="../../../images/Nudge_400.png" />
+<img width="200" height="200" alt="Nudge component icon" src="../../images/Nudge_400.png" />
 
 <div class="component-grid" markdown="1">
 

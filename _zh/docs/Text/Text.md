@@ -6,7 +6,7 @@ parent: "Text"
 
 # Text
 
-<img width="200" height="200" alt="Text component icon" src="../../../images/Text_400.png" />
+<img width="200" height="200" alt="Text component icon" src="../../images/Text_400.png" />
 
 <div class="component-grid" markdown="1">
 

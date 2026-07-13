@@ -6,7 +6,7 @@ parent: "Transform"
 
 # Locate
 
-<img width="200" height="200" alt="Locate component icon" src="../../../images/Locate_400.png" />
+<img width="200" height="200" alt="Locate component icon" src="../../images/Locate_400.png" />
 
 <div class="component-grid" markdown="1">
 

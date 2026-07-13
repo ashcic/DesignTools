@@ -6,7 +6,7 @@ parent: "3D Forms"
 
 # Groove
 
-<img width="200" height="200" alt="Groove component icon" src="../../../images/Groove_400.png" />
+<img width="200" height="200" alt="Groove component icon" src="../../images/Groove_400.png" />
 
 <div class="component-grid" markdown="1">
 

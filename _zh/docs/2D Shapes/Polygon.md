@@ -6,7 +6,7 @@ parent: "2D Shapes"
 
 # Polygon
 
-<img width="200" height="200" alt="Polygon component icon" src="../../../images/Polygon_400.png" />
+<img width="200" height="200" alt="Polygon component icon" src="../../images/Polygon_400.png" />
 
 <div class="component-grid" markdown="1">
 

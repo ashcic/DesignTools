@@ -6,7 +6,7 @@ parent: "3D Tools"
 
 # Split Brep
 
-<img width="200" height="200" alt="Split Brep component icon" src="../../../images/Split_Brep_400.png" />
+<img width="200" height="200" alt="Split Brep component icon" src="../../images/Split_Brep_400.png" />
 
 <div class="component-grid" markdown="1">
 
