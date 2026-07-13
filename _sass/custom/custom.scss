@@ -33,3 +33,21 @@
 .box-out {
   /* Add output-specific overrides here */
 }
+
+// Language switcher presentation adjustments
+.language-switcher {
+  display: inline-block;
+  vertical-align: middle;
+  
+  a {
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// Adjust top search alignment space to account for the new widget box
+.search-placeholder {
+  margin-right: 100px;
+}
