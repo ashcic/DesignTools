@@ -6,7 +6,7 @@ parent: "2D Shapes"
 
 # Sausage
 
-<img width="200" height="200" alt="Sausage component icon" src="../../images/Sausage_400.png" />
+<img width="200" height="200" alt="Sausage component icon" src="../../../images/Sausage_400.png" />
 
 <div class="component-grid" markdown="1">
 

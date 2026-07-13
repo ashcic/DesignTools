@@ -6,7 +6,7 @@ parent: "Points"
 
 # Average Point
 
-<img width="200" height="200" alt="Average Point component icon" src="../../images/Average_Point_400.png" />
+<img width="200" height="200" alt="Average Point component icon" src="../../../images/Average_Point_400.png" />
 
 <div class="component-grid" markdown="1">
 

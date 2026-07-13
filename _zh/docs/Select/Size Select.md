@@ -6,7 +6,7 @@ parent: "Select"
 
 # Size Select
 
-<img width="200" height="200" alt="Size Select component icon" src="../../images/Size_Select_400.png" />
+<img width="200" height="200" alt="Size Select component icon" src="../../../images/Size_Select_400.png" />
 
 <div class="component-grid" markdown="1">
 

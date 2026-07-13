@@ -6,7 +6,7 @@ parent: "Measure"
 
 # Dimensions
 
-<img width="200" height="200" alt="Dimensions component icon" src="../../images/Dimensions_400.png" />
+<img width="200" height="200" alt="Dimensions component icon" src="../../../images/Dimensions_400.png" />
 
 <div class="component-grid" markdown="1">
 

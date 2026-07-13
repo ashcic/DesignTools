@@ -6,7 +6,7 @@ parent: "3D Forms"
 
 # Curved Volcano
 
-<img width="200" height="200" alt="Curved Volcano component icon" src="../../images/Volcano_Curved_400.png" />
+<img width="200" height="200" alt="Curved Volcano component icon" src="../../../images/Volcano_Curved_400.png" />
 
 <div class="component-grid" markdown="1">
 
