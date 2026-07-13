@@ -6,7 +6,7 @@ parent: "2D Shapes"
 
 # Asterisk
 
-<img width="200" height="200" alt="Asterisk component icon" src="/images/Asterisk_400.png" />
+<img width="200" height="200" alt="Asterisk component icon" src="/DesignTools/images/Asterisk_400.png" />
 
 <div class="component-grid" markdown="1">
 
