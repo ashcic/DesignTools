@@ -8,37 +8,42 @@ parent: "3D Tools"
 
 <img width="200" height="200" alt="Blend Surface component icon" src="../../images/Blend_Surface_400.png" />
 
+<div class="component-grid" markdown="1">
 
+<div class="component-box box-desc" markdown="1">
 Create a blend surface between the specified edges of two surfaces. It allows you to control the curvature influence of each side and adjust the number of sections to define the blend's resolution.
+</div>
 
-___
-
+<div class="component-box box-in" markdown="1">
 ## Inputs
 
-**Brep A**
+**Brep A**  
 First Brep
 
-**Brep B**
+**Brep B**  
 Second Brep
 
-**Edge A**
+**Edge A**  
 Edge on First Brep
 
-**Edge B**
+**Edge B**  
 Edge on Second Brep
 
-**Blend A**
+**Blend A**  
 Influence of First Brep on the surface curvature
 
-**Blend B**
+**Blend B**  
 Influence of Second Brep on the surface curvature
 
-**Number of Sections**
+**Number of Sections**  
 Number of sections controlling the blend surface
+</div>
 
-___
-
+<div class="component-box box-out" markdown="1">
 ## Outputs
 
-**surface**
+**surface**  
 Blend Surface
+</div>
+
+</div>

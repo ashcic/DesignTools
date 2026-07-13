@@ -8,63 +8,61 @@ parent: "Transform"
 
 <img width="200" height="200" alt="Locate component icon" src="../../images/Locate_400.png" />
 
+<div class="component-grid" markdown="1">
 
+<div class="component-box box-desc" markdown="1">
 Locate a plane on geometry in order to place things on it
+</div>
 
-## Key Features:
-
- **Face Selection:** Choose a specific face using the index input (visualized with numbered arrows).
- **Positioning:** Place the plane using a 0-10 grid system and adjust manually via U and V insets.
- **Offsetting:** Move the resulting plane away from the surface along its normal direction.
- **Multi-Object Support:** Automatically creates a bounding box to calculate positions for groups of objects.
-
-___
-
-## Inputs
-
-**Geometry**
-The main geometry
-
-**Face**
-select a face
-
-**Position**
-0-10 chooses a position on the selected face
-
-**Inset U**
-Moves the plane in U
-
-**Inset V**
-Moves the plane in V
-
-**Offset W**
-Offsets the plane from the surface
-
-___
-
-## Outputs
-
-**Plane**
-The final plane
-
-**Surface**
-Extracted surface
-
-**Edges**
-The edges of the extracted surface
-
-**Body**
-The remaining, non-extracted, part of the geometry
-
-**Notes**
-A description of how to use this tool
-
-___
-
+<div class="component-box box-menu" markdown="1">
 ## Menu Options
 
-**Simple**
+**Simple**  
 Finds the centre using bounding box rather than UVs
 
-**Box**
+**Box**  
 Treat the objects as a bounding box and align to one of the 6 sides
+</div>
+
+<div class="component-box box-in" markdown="1">
+## Inputs
+
+**Geometry**  
+The main geometry
+
+**Face**  
+select a face
+
+**Position**  
+0-10 chooses a position on the selected face
+
+**Inset U**  
+Moves the plane in U
+
+**Inset V**  
+Moves the plane in V
+
+**Offset W**  
+Offsets the plane from the surface
+</div>
+
+<div class="component-box box-out" markdown="1">
+## Outputs
+
+**Plane**  
+The final plane
+
+**Surface**  
+Extracted surface
+
+**Edges**  
+The edges of the extracted surface
+
+**Body**  
+The remaining, non-extracted, part of the geometry
+
+**Notes**  
+A description of how to use this tool
+</div>
+
+</div>

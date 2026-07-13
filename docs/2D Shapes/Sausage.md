@@ -8,7 +8,9 @@ parent: "2D Shapes"
 
 <img width="200" height="200" alt="Sausage component icon" src="../../images/Sausage_400.png" />
 
+<div class="component-grid" markdown="1">
 
+<div class="component-box box-desc" markdown="1">
 Creates a thickened, capped geometry shape around input curves with customizable end styles.
 
 **Features:**
@@ -20,41 +22,44 @@ Creates a thickened, capped geometry shape around input curves with customizable
 The component outputs joined geometry, individual curves, and hatches suitable for export to Adobe Illustrator.
 
 *Note: Input curves must be flat on the XY plane.*
+</div>
 
-___
-
+<div class="component-box box-in" markdown="1">
 ## Inputs
 
-**Curves**
+**Curves**  
 Input curves (must be flat on XY plane)
 
-**Width**
+**Width**  
 Thickness of the line
 
-**Head**
+**Head**  
 Length of the head
 
-**Barb**
+**Barb**  
 Size of the exension
 
-**start**
+**start**  
 Start head type ID (0=Round, 1=Flat, 2=Arrow, 3=Circle, 4=Square, 5=Bar)
 
-**end**
+**end**  
 End head type ID (0=Round, 1=Flat, 2=Arrow, 3=Circle, 4=Square, 5=Bar)
+</div>
 
-___
-
+<div class="component-box box-out" markdown="1">
 ## Outputs
 
-**Curves**
+**Curves**  
 Individual curves
 
-**Joined**
+**Joined**  
 Joined curves
 
-**Hatch**
+**Hatch**  
 Hatches can be exported to Adobe Illustrator as solid objects
 
-**Notes**
+**Notes**  
 A description of how to use this tool
+</div>
+
+</div>

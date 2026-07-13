@@ -8,7 +8,9 @@ parent: "Transform"
 
 <img width="200" height="200" alt="Distribute component icon" src="../../images/Distribute_400.png" />
 
+<div class="component-grid" markdown="1">
 
+<div class="component-box box-desc" markdown="1">
 Distributes geometry across a bounding box with uniform gaps or specific alignment points.
 
 **Distribution Modes:**
@@ -19,60 +21,63 @@ Distributes geometry across a bounding box with uniform gaps or specific alignme
 * 3 - From Right (Max)
 
 The **Order** toggle sorts items by position, and the **Align** toggle snaps the final group to the reference geometry.
+</div>
 
-___
-
-## Inputs
-
-**Geometry**
-The objects to be distributed.
-
-**Reference Geo (Optional)**
-The geometry to use as a reference
-
-**X**
-0, 1 or 2 sets the position to left, centre or right, can also be true/false
-
-**Y**
-0, 1 or 2 sets the position to front, centre or back, can also be true/false
-
-**Z**
-0, 1 or 2 sets the position to bottom, centre or top, can also be true/false
-
-**Insets**
-The ammount to inset from the edge
-
-___
-
-## Outputs
-
-**Geometry**
-The updated geometry
-
-**Moves**
-The translation vectors used to move the geometry
-
-**Notes**
-A description of how to use this tool
-
-___
-
+<div class="component-box box-menu" markdown="1">
 ## Menu Options
 
-**Even Gaps**
+**Even Gaps**  
 Set even gaps between objects
 
-**From Left (Min)**
+**From Left (Min)**  
 Spacing is measured from the left or minimum sides
 
-**From Centres**
+**From Centres**  
 Spacing is measured from the centres
 
-**From Right (Max)**
+**From Right (Max)**  
 Spacing is measured from the left or maximum sides
 
-**Order**
+**Order**  
 Use the input order to order the geometry, rather than it's original position
 
-**Align**
+**Align**  
 Align to the reference geometry
+</div>
+
+<div class="component-box box-in" markdown="1">
+## Inputs
+
+**Geometry**  
+The objects to be distributed.
+
+**Reference Geo (Optional)**  
+The geometry to use as a reference
+
+**X**  
+0, 1 or 2 sets the position to left, centre or right, can also be true/false
+
+**Y**  
+0, 1 or 2 sets the position to front, centre or back, can also be true/false
+
+**Z**  
+0, 1 or 2 sets the position to bottom, centre or top, can also be true/false
+
+**Insets**  
+The ammount to inset from the edge
+</div>
+
+<div class="component-box box-out" markdown="1">
+## Outputs
+
+**Geometry**  
+The updated geometry
+
+**Moves**  
+The translation vectors used to move the geometry
+
+**Notes**  
+A description of how to use this tool
+</div>
+
+</div>

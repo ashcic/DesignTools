@@ -1,0 +1,35 @@
+.component-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+/* Shared base styling for all boxes */
+.component-box {
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  padding: 1.5rem;
+  border-radius: 10px;
+}
+
+/* Removes the large default margin above Kramdown headers inside the boxes */
+.component-box h2 {
+  margin-top: 0 !important;
+}
+
+/* Specific classes for individual customization */
+.box-desc {
+  /* Add description-specific overrides here */
+}
+
+.box-menu {
+  /* Add menu-specific overrides here */
+}
+
+.box-in {
+  /* Add input-specific overrides here */
+}
+
+.box-out {
+  /* Add output-specific overrides here */
+}
