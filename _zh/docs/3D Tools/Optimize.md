@@ -6,7 +6,7 @@ parent: "3D Tools"
 
 # Optimize
 
-<img width="200" height="200" alt="Optimize component icon" src="../../../images/Optimize_400.png" />
+<img width="200" height="200" alt="Optimize component icon" src="/DesignTools/images/Optimize_400.png" />
 
 <div class="component-grid" markdown="1">
 

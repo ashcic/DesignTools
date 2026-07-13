@@ -6,7 +6,7 @@ parent: "3D Forms"
 
 # Revolve
 
-<img width="200" height="200" alt="Revolve component icon" src="../../../images/Revolve_400.png" />
+<img width="200" height="200" alt="Revolve component icon" src="/DesignTools/images/Revolve_400.png" />
 
 <div class="component-grid" markdown="1">
 

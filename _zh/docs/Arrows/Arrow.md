@@ -6,7 +6,7 @@ parent: "Arrows"
 
 # Arrow
 
-<img width="200" height="200" alt="Arrow component icon" src="../../../images/Arrow_400.png" />
+<img width="200" height="200" alt="Arrow component icon" src="/DesignTools/images/Arrow_400.png" />
 
 <div class="component-grid" markdown="1">
 

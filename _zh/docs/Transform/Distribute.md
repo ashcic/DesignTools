@@ -6,7 +6,7 @@ parent: "Transform"
 
 # Distribute
 
-<img width="200" height="200" alt="Distribute component icon" src="../../../images/Distribute_400.png" />
+<img width="200" height="200" alt="Distribute component icon" src="/DesignTools/images/Distribute_400.png" />
 
 <div class="component-grid" markdown="1">
 

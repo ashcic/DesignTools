@@ -6,7 +6,7 @@ parent: "Curve Tools"
 
 # Blend_Curve
 
-<img width="200" height="200" alt="Blend Curve component icon" src="../../../images/Blend_Curve_400.png" />
+<img width="200" height="200" alt="Blend Curve component icon" src="/DesignTools/images/Blend_Curve_400.png" />
 
 <div class="component-grid" markdown="1">
 

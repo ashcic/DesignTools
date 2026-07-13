@@ -6,7 +6,7 @@ parent: "Select"
 
 # Plane Select
 
-<img width="200" height="200" alt="Plane Select component icon" src="../../../images/Plane_Select_400.png" />
+<img width="200" height="200" alt="Plane Select component icon" src="/DesignTools/images/Plane_Select_400.png" />
 
 <div class="component-grid" markdown="1">
 

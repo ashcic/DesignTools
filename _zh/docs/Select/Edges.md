@@ -6,7 +6,7 @@ parent: "Select"
 
 # Edges
 
-<img width="200" height="200" alt="Edges component icon" src="../../../images/Edges_400.png" />
+<img width="200" height="200" alt="Edges component icon" src="/DesignTools/images/Edges_400.png" />
 
 <div class="component-grid" markdown="1">
 

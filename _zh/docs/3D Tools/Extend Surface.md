@@ -6,7 +6,7 @@ parent: "3D Tools"
 
 # Extend Surface
 
-<img width="200" height="200" alt="Extend Surface component icon" src="../../../images/Extend_Surface_400.png" />
+<img width="200" height="200" alt="Extend Surface component icon" src="/DesignTools/images/Extend_Surface_400.png" />
 
 <div class="component-grid" markdown="1">
 

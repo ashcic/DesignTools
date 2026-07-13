@@ -6,7 +6,7 @@ parent: "Measure"
 
 # Zebra
 
-<img width="200" height="200" alt="Zebra component icon" src="../../../images/Zebra_400.png" />
+<img width="200" height="200" alt="Zebra component icon" src="/DesignTools/images/Zebra_400.png" />
 
 <div class="component-grid" markdown="1">
 

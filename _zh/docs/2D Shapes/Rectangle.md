@@ -6,7 +6,7 @@ parent: "2D Shapes"
 
 # Rectangle
 
-<img width="200" height="200" alt="Rectangle component icon" src="../../../images/Rectangle_400.png" />
+<img width="200" height="200" alt="Rectangle component icon" src="/DesignTools/images/Rectangle_400.png" />
 
 <div class="component-grid" markdown="1">
 

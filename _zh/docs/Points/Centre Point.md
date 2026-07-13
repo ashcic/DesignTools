@@ -6,7 +6,7 @@ parent: "Points"
 
 # Centre Point
 
-<img width="200" height="200" alt="Centre Point component icon" src="../../../images/Centre_Point_400.png" />
+<img width="200" height="200" alt="Centre Point component icon" src="/DesignTools/images/Centre_Point_400.png" />
 
 <div class="component-grid" markdown="1">
 

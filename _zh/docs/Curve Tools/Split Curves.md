@@ -6,7 +6,7 @@ parent: "Curve Tools"
 
 # Split Curves
 
-<img width="200" height="200" alt="Split Curves component icon" src="../../../images/Split_Curves_400.png" />
+<img width="200" height="200" alt="Split Curves component icon" src="/DesignTools/images/Split_Curves_400.png" />
 
 <div class="component-grid" markdown="1">
 

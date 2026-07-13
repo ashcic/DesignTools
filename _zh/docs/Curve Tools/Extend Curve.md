@@ -6,7 +6,7 @@ parent: "Curve Tools"
 
 # Extend_Curve
 
-<img width="200" height="200" alt="Extend Curve component icon" src="../../../images/Extend_Curve_400.png" />
+<img width="200" height="200" alt="Extend Curve component icon" src="/DesignTools/images/Extend_Curve_400.png" />
 
 <div class="component-grid" markdown="1">
 
