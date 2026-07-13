@@ -11,14 +11,8 @@ parent: "2D Shapes"
 <div class="component-grid" markdown="1">
 
 <div class="component-box box-desc" markdown="1">
-Creates a regular polygon based on a radius and number of sides, with customizable corner treatments.
+Creates a regular polygon based on a radius and number of sides, with customizable corner types that you can select from the menu.
 
-**Fillets & Blends:** Create smooth, rounded corners with adjustable size and curvature.
-**Arcs:** Create perfectly circular corner joints.
-**Chamfers:** Create flat, angled corners.
-**C2 Corners:** Provide smooth, high-continuity transitions for organic shapes.
-
-Outputs include the construction circle, joined curves, individual segments, fillet centers, and vertex points.
 </div>
 
 <div class="component-box box-menu" markdown="1">

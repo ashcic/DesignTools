@@ -18,8 +18,8 @@
 }
 
 /* Specific classes for individual customization */
-.box-desc {
-  /* Add description-specific overrides here */
+.box-desc {     /* Add description-specific overrides here */
+  border: none; /* This removes the border completely */
 }
 
 .box-menu {

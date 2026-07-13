@@ -20,8 +20,8 @@ Creates a Pill or Race-track shape based on X and Y dimensions.
 **Smooth**  
 Toggles between sharp geometric corners and smooth, continuous curves
 
-**P_width**  
-If this is selected, the number for X is the dixtance between the two pivot points
+**Pivot Width**  
+If this is selected, the number for X is the distance between the two pivot points
 If this is unselected (default), the number for X is the total width
 </div>
 
