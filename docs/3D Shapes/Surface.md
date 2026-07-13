@@ -6,6 +6,9 @@ parent: "3D Shapes"
 
 # Surface
 
+<img width="200" height="200" alt="Surface component icon" src="../../images/Surface_400.png" />
+
+
 Creates either a rectangular surface based on X and Y dimensions or a flat boundary surface from a set of curves.
 
 **Rectangular Surface:** Provide X and Y dimensions to generate a rectangle oriented to the input Plane.

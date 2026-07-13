@@ -6,6 +6,9 @@ parent: "Arrows"
 
 # Arrow
 
+<img width="200" height="200" alt="Arrow component icon" src="../../images/Arrow_400.png" />
+
+
 Creates a flat arrow shape
 
 **Length:** The overall length of the arrow.

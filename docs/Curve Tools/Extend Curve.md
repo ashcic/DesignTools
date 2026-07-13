@@ -6,6 +6,9 @@ parent: "Curve Tools"
 
 # Extend_Curve
 
+<img width="200" height="200" alt="Extend Curve component icon" src="../../images/Extend_Curve_400.png" />
+
+
 Extends or trims a curve from its start and end points. Use positive values to lengthen the curve and negative values to shorten it.
 
 ___

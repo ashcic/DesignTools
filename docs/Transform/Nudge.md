@@ -6,6 +6,9 @@ parent: "Transform"
 
 # Nudge
 
+<img width="200" height="200" alt="Nudge component icon" src="../../images/Nudge_400.png" />
+
+
 Nudge geometry in small amounts in X, Y and Z.  This is useful for making precise manual adjustments to the position of objects.
 
 ___

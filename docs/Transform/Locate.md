@@ -6,6 +6,9 @@ parent: "Transform"
 
 # Locate
 
+<img width="200" height="200" alt="Locate component icon" src="../../images/Locate_400.png" />
+
+
 Locate a plane on geometry in order to place things on it
 
 ## Key Features:

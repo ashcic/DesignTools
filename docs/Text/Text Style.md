@@ -6,6 +6,9 @@ parent: "Text"
 
 # Text Style
 
+<img width="200" height="200" alt="Text Style component icon" src="../../images/Text_Style_400.png" />
+
+
 Defines the styling properties for a Text node. Use this component to set:
 
 **Font** family

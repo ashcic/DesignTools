@@ -6,6 +6,9 @@ parent: "3D Forms"
 
 # Sweep
 
+<img width="200" height="200" alt="Sweep component icon" src="../../images/Sweep_400.png" />
+
+
 Sweeps profile curves along rail paths to create surfaces and solids. 
 
 ## Key Functions:

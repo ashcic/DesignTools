@@ -6,6 +6,9 @@ parent: "2D Shapes"
 
 # Asterisk
 
+<img width="200" height="200" alt="Asterisk component icon" src="../../images/Asterisk_400.png" />
+
+
 Creates an asterisk-like shape with multiple radiating arms. You can customize the overall radius, the width of each arm, and the total number of arms. The component offers three distinct styles: **Flat**, **Arched**, and **Round**.
 
 ___

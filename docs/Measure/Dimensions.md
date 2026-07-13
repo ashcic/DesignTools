@@ -6,6 +6,9 @@ parent: "Measure"
 
 # Dimensions
 
+<img width="200" height="200" alt="Dimensions component icon" src="../../images/Dimensions_400.png" />
+
+
 Get the Bounding Box Dimensions of geometry as X, Y and Z values.
 
 ___

@@ -6,6 +6,9 @@ parent: "Text"
 
 # Text
 
+<img width="200" height="200" alt="Text component icon" src="../../images/Text_400.png" />
+
+
 
 Converts a text into geometry based on a specified style.
 

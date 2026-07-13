@@ -6,6 +6,9 @@ parent: "2D Shapes"
 
 # Pill
 
+<img width="200" height="200" alt="Pill component icon" src="../../images/Pill_400.png" />
+
+
 Creates a Pill or Race-track shape based on X and Y dimensions.
 
 ## Key Feature:

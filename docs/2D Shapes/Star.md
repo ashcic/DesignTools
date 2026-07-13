@@ -6,6 +6,9 @@ parent: "2D Shapes"
 
 # Star
 
+<img width="200" height="200" alt="Star component icon" src="../../images/Star_400.png" />
+
+
 Creates a star shape by defining two circles, one on which creates the outside points, the other creates the inside valleys.
 
 ___

@@ -6,6 +6,9 @@ parent: "Transform"
 
 # Resize
 
+<img width="200" height="200" alt="Resize component icon" src="../../images/Resize_400.png" />
+
+
 Resizes geometry based on target dimensions, reference objects, or both.
 
 ## Key Features:

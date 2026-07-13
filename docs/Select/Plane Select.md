@@ -6,6 +6,9 @@ parent: "Select"
 
 # Plane Select
 
+<img width="200" height="200" alt="Plane Select component icon" src="../../images/Plane_Select_400.png" />
+
+
 Use a Plane to select geometry.  Divide the geometry into two groups — those situated above/on a reference plane and those below it.
 
 **Selection Levels:**

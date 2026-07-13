@@ -6,6 +6,9 @@ parent: "Transform"
 
 # Distribute
 
+<img width="200" height="200" alt="Distribute component icon" src="../../images/Distribute_400.png" />
+
+
 Distributes geometry across a bounding box with uniform gaps or specific alignment points.
 
 **Distribution Modes:**

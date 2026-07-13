@@ -6,6 +6,9 @@ parent: "3D Shapes"
 
 # Cube
 
+<img width="200" height="200" alt="Cube component icon" src="../../images/Cube_400.png" />
+
+
 Creates a 3D cube based on specified X, Y, and Z dimensions. Useful for 'Box Select'.
 
 Includes an option to either center the cube on its midpoint or align it starting from its base.

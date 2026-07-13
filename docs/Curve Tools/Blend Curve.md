@@ -6,6 +6,9 @@ parent: "Curve Tools"
 
 # Blend_Curve
 
+<img width="200" height="200" alt="Blend Curve component icon" src="../../images/Blend_Curve_400.png" />
+
+
 Creates a smooth curve between two points with precise control over the orientation at each endpoint.
 
 **Orientation:** Define the specific direction (Vector) and rotation (Angle) for both the start and end of the curve.

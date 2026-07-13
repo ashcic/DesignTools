@@ -6,6 +6,9 @@ parent: "Select"
 
 # Edges
 
+<img width="200" height="200" alt="Edges component icon" src="../../images/Edges_400.png" />
+
+
 Get specific edges from a Brep geometry. It allows you to filter for:
 
 * Naked edges

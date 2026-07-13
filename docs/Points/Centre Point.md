@@ -6,6 +6,9 @@ parent: "Points"
 
 # Centre Point
 
+<img width="200" height="200" alt="Centre Point component icon" src="../../images/Centre_Point_400.png" />
+
+
 Finds the center points of input geometry, either by finding the individual centres of each piece of geometry, or by grouping them in to a union, and finding the overall centre point.
 
 ___

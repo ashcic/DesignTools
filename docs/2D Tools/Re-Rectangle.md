@@ -6,6 +6,9 @@ parent: "2D Tools"
 
 # Re-Rectangle
 
+<img width="200" height="200" alt="Re-Rectangle component icon" src="../../images/Re_Rectangle_400.png" />
+
+
 Constructs a rectangle, pill shape, or rounded box based on reference geometry.
 
 ## Key Features:

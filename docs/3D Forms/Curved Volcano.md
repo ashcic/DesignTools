@@ -6,6 +6,9 @@ parent: "3D Forms"
 
 # Curved Volcano
 
+<img width="200" height="200" alt="Curved Volcano component icon" src="../../images/Volcano_Curved_400.png" />
+
+
 Creates a curved, ramped protrusion from a base geometry using profile curves. This component blends a surface into a volcano-like shape with customizable transitions.
 
 ## Key features: 

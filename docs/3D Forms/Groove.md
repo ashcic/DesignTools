@@ -6,6 +6,9 @@ parent: "3D Forms"
 
 # Groove
 
+<img width="200" height="200" alt="Groove component icon" src="../../images/Groove_400.png" />
+
+
 Creates a groove or nipple shape and a cutting edge so that it can easily be put into a surface. You can adjust the dimensions of the profile using Length, Radius, and Depth, while Fillet and Blend parameters allow for smoothed edges.
 
 ___

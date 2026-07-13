@@ -6,6 +6,9 @@ parent: "3D Tools"
 
 # Optimize
 
+<img width="200" height="200" alt="Optimize component icon" src="../../images/Optimize_400.png" />
+
+
 Cleans and simplifies Brep geometry.  The specific methods of optimisation are in the menu, so that you only apply those that are necessary.
 
 ___

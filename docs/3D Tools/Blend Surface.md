@@ -6,6 +6,9 @@ parent: "3D Tools"
 
 # Blend Surface
 
+<img width="200" height="200" alt="Blend Surface component icon" src="../../images/Blend_Surface_400.png" />
+
+
 Create a blend surface between the specified edges of two surfaces. It allows you to control the curvature influence of each side and adjust the number of sections to define the blend's resolution.
 
 ___

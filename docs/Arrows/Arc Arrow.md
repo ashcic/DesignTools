@@ -6,6 +6,9 @@ parent: "Arrows"
 
 # Arc Arrow
 
+<img width="200" height="200" alt="Arc Arrow component icon" src="../../images/Arrow_Arc_400.png" />
+
+
 Creates a 2D arrow in an arc shape. Adjust parameters to define the radius, length, shaft width, and arrowhead proportions.
 
 Includes options for **double-ended** arrows and **centered** orientations.

@@ -6,6 +6,9 @@ parent: "2D Shapes"
 
 # Polygon
 
+<img width="200" height="200" alt="Polygon component icon" src="../../images/Polygon_400.png" />
+
+
 Creates a regular polygon based on a radius and number of sides, with customizable corner treatments.
 
 **Fillets & Blends:** Create smooth, rounded corners with adjustable size and curvature.

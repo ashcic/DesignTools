@@ -6,6 +6,9 @@ parent: "3D Tools"
 
 # Extend Surface
 
+<img width="200" height="200" alt="Extend Surface component icon" src="../../images/Extend_Surface_400.png" />
+
+
 Extends an existing surface outward from one or more of its edges by a specified distance or proportion. You can choose to extend specific edges or all sides simultaneously.
 
 ___

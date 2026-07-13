@@ -6,6 +6,9 @@ parent: "2D Shapes"
 
 # Triangle
 
+<img width="200" height="200" alt="Triangle component icon" src="../../images/Triangle_400.png" />
+
+
 Creates a triangle that can be oriented in different directions.  Use an integer number slider in the 'orient' input to change the direction it is pointing
 
 ___

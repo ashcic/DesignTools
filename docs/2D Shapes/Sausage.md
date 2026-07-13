@@ -6,6 +6,9 @@ parent: "2D Shapes"
 
 # Sausage
 
+<img width="200" height="200" alt="Sausage component icon" src="../../images/Sausage_400.png" />
+
+
 Creates a thickened, capped geometry shape around input curves with customizable end styles.
 
 **Features:**

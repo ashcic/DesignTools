@@ -6,6 +6,9 @@ parent: "Select"
 
 # Box Select
 
+<img width="200" height="200" alt="Box Select component icon" src="../../images/Box_Select_400.png" />
+
+
 Use Bounding Boxes to select geometry
 
 ## Key Features:

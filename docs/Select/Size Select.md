@@ -6,6 +6,9 @@ parent: "Select"
 
 # Size Select
 
+<img width="200" height="200" alt="Size Select component icon" src="../../images/Size_Select_400.png" />
+
+
 Select geometry based on it's size.  Identifies and extracts either the **Biggest** or **Smallest** geometry from a list based on chosen measurement criteria (such as Volume, Area, or Bounding Box size).
 
 The selected item is sent to the 'Piece' output, while all remaining objects are grouped in the 'Others' output.

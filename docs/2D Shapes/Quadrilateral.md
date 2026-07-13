@@ -6,6 +6,9 @@ parent: "2D Shapes"
 
 # Quadrilateral
 
+<img width="200" height="200" alt="Quadrilateral component icon" src="../../images/Quadrilateral_400.png" />
+
+
 Creates a Parallelogram, Trapezium, Rhombus, or Kite shape. The angle of the sides can either be set by using the angle input or the inset input.
 
 ___

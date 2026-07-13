@@ -6,6 +6,9 @@ parent: "3D Shapes"
 
 # Cylinder
 
+<img width="200" height="200" alt="Cylinder component icon" src="../../images/Cylinder_400.png" />
+
+
 Creates an advanced cylinder or cone with customizable fillets.  I
 
 ## Key Features:

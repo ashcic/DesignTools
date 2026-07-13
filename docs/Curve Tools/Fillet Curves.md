@@ -6,6 +6,9 @@ parent: "Curve Tools"
 
 # Fillet Curves
 
+<img width="200" height="200" alt="Fillet Curves component icon" src="../../images/Fillet_Curves_400.png" />
+
+
 Applies blend fillets to a set of curves. Use the radii input to control the rounding at junctions and the blends input to define the transition type.
 
 ___

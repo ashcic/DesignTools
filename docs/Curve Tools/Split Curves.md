@@ -6,6 +6,9 @@ parent: "Curve Tools"
 
 # Split Curves
 
+<img width="200" height="200" alt="Split Curves component icon" src="../../images/Split_Curves_400.png" />
+
+
 Splits a set of curves using one or more cutting planes. The resulting segments are organized into branches based on the sections created by those planes.
 
 ## Key Features:

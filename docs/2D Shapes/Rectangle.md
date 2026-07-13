@@ -6,6 +6,9 @@ parent: "2D Shapes"
 
 # Rectangle
 
+<img width="200" height="200" alt="Rectangle component icon" src="../../images/Rectangle_400.png" />
+
+
 Creates a rectangle with customizable dimensions and corner styles. You can choose between sharp corners, chamfered edges, or various types of rounded (Arc) and blended corners.
 
 ## Key features:
