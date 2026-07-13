@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Text"
+title: "Text Tool"
 parent: "Text"
 ---
 
