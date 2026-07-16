@@ -8,8 +8,7 @@ Design Tools is a set of high-performance Grasshopper components created to make
 
 The componenets themselves are only half of the story, the other aspect is WorkFlow.  Getting that speed and agility depends on understanding how to build.  Design Tools makes that process super simple and is a great entry point to exploring all the amzing things that you can do in Grasshopper.
 
-
-
+<img width="800" height="511" alt="The range of tools in the Design Tools Plugin" src="images/Shelves_Overview.png" />
 
 ---
 
