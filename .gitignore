@@ -5,4 +5,5 @@ add_css.py
 .DS_Store
 Shelf_sizes.csv
 generate_docs.py
-
+generate_docs.pyx
+Component_Data.csv
