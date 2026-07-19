@@ -22,6 +22,8 @@ Design Tools 是一组高性能 Grasshopper 组件，旨在使工业设计工作
 
 组件本身只是故事的一半，另一个方面是工作流。获得这种速度和敏捷性取决于理解如何构建。Design Tools 使该过程变得超级简单，是探索您在 Grasshopper 中可以做的所有惊人事情的绝佳切入点。
 
+<img width="800" height="511" alt="The range of tools in the Design Tools Plugin" src="../images/Shelves_Overview.png" />
+
 ---
 
 ## 入门
